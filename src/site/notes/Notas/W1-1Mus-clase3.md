@@ -35,20 +35,7 @@ Hagamos Cuaderno de trabajo Página 8, ejercicio 7
 ---
 ## Ritmo
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-## Silencio de negra 
-
-### 1 ![Pasted image 20230913175854.png|undefined](/img/user/Assets/Pasted%20image%2020230913175854.png)
-### 2 
 ![Pasted image 20230918092010.png|undefined](/img/user/Assets/Pasted%20image%2020230918092010.png)
-
-
-</div></div>
-
 
 ---
 
