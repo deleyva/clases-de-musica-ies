@@ -49,4 +49,4 @@ Hagamos Cuaderno de trabajo Página 8, ejercicio 7
 
 [[Notas/test\|test]]
 
-<audio src="../Assets/Recording 20231024091913.webm" controls></audio>
+<audio src="/Assets/Recording 20231024091913.webm" controls></audio>
