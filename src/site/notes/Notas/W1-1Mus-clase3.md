@@ -30,17 +30,7 @@ Hagamos Cuaderno de trabajo Página 8, ejercicio 7
 
 ## Entonación
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-#### 3 
 ![Pasted image 20230921121533.png|undefined](/img/user/Assets/Pasted%20image%2020230921121533.png)
-
-
-</div></div>
-
 
 ---
 ## Ritmo
