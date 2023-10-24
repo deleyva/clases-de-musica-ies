@@ -69,3 +69,5 @@ Hagamos Cuaderno de trabajo Página 8, ejercicio 7
 ## Justin Bieber - verso2, preestribillo2 y estribillo2
 
 ![[../Assets/Recording 20231024091913.webm]]
+
+[[Notas/test\|test]]
