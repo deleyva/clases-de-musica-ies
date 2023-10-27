@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/clases-de-musica-ies-martina-bescos/","tags":["gardenEntry"]}
 ---
 
-¡Bienvenidas!
+¡Hola!
 
 En el menú de la izquierda puedes acceder al contenido de las clases y a otro material de práctica.
 
