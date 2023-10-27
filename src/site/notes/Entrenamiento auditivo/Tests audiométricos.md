@@ -4,6 +4,76 @@
 
 ## 4º de tono
 
+### 01-4
+
+<audio src="https://docs.google.com/uc?export=download&id=1vLpU3DkD4aC0Ot4Akwim1S7-fihd3ZvT" controls></audio>
+
+> [!TIP]- Solución
+>Test 01: 1: ↓   2: ↑    3: ↑    4: ↑    5: ↓    6: ↓    7: ↓    8: ↑    9: ↑    10: ↓
+
+
+### 02-4
+
+<audio src="https://docs.google.com/uc?export=download&id=1KQrbNxpI0SJ6B_Iias-xvp4DX2OPy-N-" controls></audio>
+
+> [!TIP]- Solución
+>Test 02: 1: ↑   2: ↑    3: ↓    4: ↑    5: ↓    6: ↓    7: ↓    8: ↑    9: ↓    10: ↓
+
+### 03-4
+
+<audio src="https://docs.google.com/uc?export=download&id=1gkiLNl_uxPLN5cgorf0X92OKzX0IzyyQ" controls></audio>
+
+> [!TIP]- Solución
+>Test 03: 1: ↓   2: ↑    3: ↑    4: ↑    5: ↓    6: ↑    7: ↑    8: ↑    9: ↑    10: ↑
+
+### 04-4
+
+<audio src="https://docs.google.com/uc?export=download&id=1dFwbvc--TaXzwc5jCbmqUCLcaz5sglmA" controls></audio>
+
+> [!TIP]- Solución
+>Test 04: 1: ↑   2: ↑    3: ↓    4: ↓    5: ↓    6: ↑    7: ↓    8: ↑    9: ↑    10: ↑
+
+### 05-4
+
+<audio src="https://docs.google.com/uc?export=download&id=1-kJZQk2GHIyo1-MRMEvMlsLdSaWoJfYV" controls></audio>
+
+> [!TIP]- Solución
+>Test 05: 1: ↑   2: ↑    3: ↓    4: ↑    5: ↓    6: ↑    7: ↓    8: ↓    9: ↑    10: ↑
+
+### 06-4
+
+<audio src="https://docs.google.com/uc?export=download&id=1zvzEIyXAStFHsbYEz_6nHExEx_RCKHyK" controls></audio>
+
+> [!TIP]- Solución
+>Test 06: 1: ↓   2: ↑    3: ↑    4: ↓    5: ↓    6: ↑    7: ↑    8: ↓    9: ↑    10: ↓
+
+### 07-4
+
+<audio src="https://docs.google.com/uc?export=download&id=1OW7J7Tt6aa3aBE-MiLeNGitk1FKC4icG" controls></audio>
+
+> [!TIP]- Solución
+>Test 07: 1: ↓   2: ↑    3: ↓    4: ↑    5: ↑    6: ↑    7: ↓    8: ↓    9: ↑    10: ↑
+
+### 08-4
+
+<audio src="https://docs.google.com/uc?export=download&id=1vYPKztuECTalXeiZjpRVcr99HADsF0U3" controls></audio>
+
+> [!TIP]- Solución
+>Test 08: 1: ↑   2: ↓    3: ↓    4: ↓    5: ↓    6: ↑    7: ↓    8: ↑    9: ↑    10: ↓
+
+### 09-4
+
+<audio src="https://docs.google.com/uc?export=download&id=1lK7-U6bIUJyztyDpb6-Qx8VFWyePFAqP" controls></audio>
+
+> [!TIP]- Solución
+>Test 09: 1: ↑   2: ↓    3: ↑    4: ↑    5: ↓    6: ↑    7: ↑    8: ↑    9: ↑    10: ↑
+
+### 10-4
+
+<audio src="https://docs.google.com/uc?export=download&id=1z9TbDPClX9teRCFSwTSQZ6Flpln75nqB" controls></audio>
+
+> [!TIP]- Solución
+>Test 10: 1: ↓   2: ↓    3: ↓    4: ↓    5: ↑    6: ↑    7: ↓    8: ↑    9: ↑    10: ↑
 
 ## 8º de tono
 
@@ -38,7 +108,7 @@
 
 ### 05-8
 
-<audio src="https://docs.google.com/uc?export=download&id=1ulaK2LXHEKHewgJC8JYgsTdSZbWIAFPX/view?usp=drive_link" controls></audio>
+<audio src="https://docs.google.com/uc?export=download&id=1ulaK2LXHEKHewgJC8JYgsTdSZbWIAFPX" controls></audio>
 
 > [!TIP]- Solución
 >1: ↑    2: ↓    3: ↑    4: ↑    5: ↑    6: ↑    7: ↓    8: ↑    9: ↓    10: ↑ 
