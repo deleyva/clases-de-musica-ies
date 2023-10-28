@@ -101,7 +101,16 @@ Vamos a revisar [[Notas/Libro Música 1º ESO esp#Página 8 ejercicio, 8\| pági
 
 
 
-## En su cuna rosa
+### En su cuna rosa
+
+En su cuna rosa
+Mi bebé reposa
+ea.  ea.  
+ea eeea
+
+>[!]- Más
+>![../Assets/Pasted image 20231028072741.png|undefined](/img/user/Assets/Pasted%20image%2020231028072741.png)
+
 
 
 </div></div>
