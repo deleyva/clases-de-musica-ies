@@ -92,6 +92,73 @@ https://www.ukeaula.com/general-5
 - En su cuna rosa.
 
 ---
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# Canciones didácticas###En su cuna rosa
+
+</div>
+
+
+## En español
+
+### En su cuna rosa
+
+En su cuna rosa
+Mi bebé reposa
+ea.  ea.  
+ea eeea
+
+>[!]- Más
+>![../Assets/Pasted image 20231028072741.png|undefined](/img/user/Assets/Pasted%20image%2020231028072741.png)
+
+
+### En el mar
+
+En el mar, tira rira ri ra, \
+en el mar, tira rira ra.
+
+Hay un pez, tira rira ri ra, \
+hay un pez, tira rira ra.
+
+De oro es, tira rira ri ra, \
+de oro es, tira rira ra.
+
+A nadar, tira rira ri ra, \
+a nadar te podrá enseñar.
+
+### El ratón
+
+Oh, oh, se rompió
+la patita del ratón
+
+Ah, ah, ya verás
+pronto se le curará
+
+## English
+
+### In my little village
+
+In my little village
+I sing all the time
+I love singing
+where memories rhyme
+
+### Shinning moon
+
+Moon, moon, shining light, \
+Guiding us all through the night. 
+
+When the sun is bright, \
+We can see each other right
+
+</div></div>
+
+
+---
 ## Ama - Extremoduro
 
 [Canción procesada](https://studio.moises.ai/player2/be55d2b5-bc8b-43d8-8c7b-ff1c8ffeb256/?context=spliter)
