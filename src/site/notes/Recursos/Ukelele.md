@@ -16,3 +16,7 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 
 <iframe src="https://www.soundslice.com/slices/JQPwc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
+### En su cuna rosa
+
+<iframe src="https://www.soundslice.com/slices/smgwc/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
+
