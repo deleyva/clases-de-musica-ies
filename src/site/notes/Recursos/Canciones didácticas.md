@@ -15,6 +15,8 @@ pronto se le curará
 
 >[!EXAMPLE]- Más
 >![../Assets/Pasted image 20231028073636.png|undefined](/img/user/Assets/Pasted%20image%2020231028073636.png)
+>
+><iframe src="https://www.soundslice.com/slices/smgwc/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
 
 ### Din, dan
 
