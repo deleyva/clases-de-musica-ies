@@ -10,7 +10,9 @@
 > -  Tricordio + 3ª, Pentacordio + Acorde.
 > - Ukelele. El ratón
 
+
 ---
+
 
 ## Rhythm
 
@@ -51,7 +53,6 @@ Din, dan, din,din,dan, las campanas sonarán.
 
 
 <audio src="https://docs.google.com/uc?export=download&id=1Y443aZpshGMAGnfQUgO9m6_bFLjKJcGs" controls></audio>
-
 
 > [!TIP]- Solución
 ><div id="paper"></div>
