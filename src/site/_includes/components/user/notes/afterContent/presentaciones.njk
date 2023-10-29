@@ -2,6 +2,9 @@
 // Obtén el título del documento
 const title = document.title;
 
+let prevButton;
+let nextButton;
+
 // Verifica si el título comienza con 'W' seguido de un dígito
 if (title.match(/^W\d/)) {
   
@@ -25,16 +28,24 @@ if (title.match(/^W\d/)) {
   function showSlide(index) {
     slides.forEach(slide => slide.classList.remove('active-slide'));
     slides[index].classList.add('active-slide');
+
+    // Actualizar la visibilidad de los botones
+    prevButton.style.display = (index > 0) ? 'inline-block' : 'none';
+    nextButton.style.display = (index < slides.length - 1) ? 'inline-block' : 'none';
   }
 
   // Botones de navegación
-  const navButtons = document.createElement('div');
-  navButtons.className = 'navigation-buttons';
-  navButtons.innerHTML = `
-    <button onclick="prevSlide()">Anterior</button>
-    <button onclick="nextSlide()">Siguiente</button>
-  `;
-  document.body.appendChild(navButtons);
+const navButtons = document.createElement('div');
+navButtons.className = 'navigation-buttons';
+prevButton = document.createElement('button');
+prevButton.innerText = 'Anterior';
+prevButton.onclick = prevSlide;
+nextButton = document.createElement('button');
+nextButton.innerText = 'Siguiente';
+nextButton.onclick = nextSlide;
+navButtons.appendChild(prevButton);
+navButtons.appendChild(nextButton);
+document.body.appendChild(navButtons);
 
   // Funciones para navegar entre slides
   function prevSlide() {
@@ -50,6 +61,16 @@ if (title.match(/^W\d/)) {
       showSlide(currentSlideIndex);
     }
   }
+
+  // Escuchar las teclas de flecha izquierda y derecha
+    document.addEventListener('keydown', (event) => {
+    if (event.key === 'ArrowLeft') {
+        prevSlide();
+    } else if (event.key === 'ArrowRight') {
+        nextSlide();
+    }
+    });
+
 
   // Mostrar el primer slide al cargar la página
   showSlide(currentSlideIndex);
