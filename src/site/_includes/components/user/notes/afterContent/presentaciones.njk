@@ -1,0 +1,58 @@
+// Obtén el título del documento
+const title = document.title;
+
+// Verifica si el título comienza con 'W' seguido de un dígito
+if (title.match(/^W\d/)) {
+  
+  // Encuentra todos los elementos entre <hr> y agrúpalos en un div con la clase 'slide'
+  const sections = Array.from(document.querySelectorAll('body > *:not(script):not(.navigation-buttons)'));
+  let slideWrapper = null;
+  sections.forEach((section, index) => {
+    if (section.tagName === 'HR' || section.tagName === 'H2') {
+      slideWrapper = document.createElement('div');
+      slideWrapper.className = 'slide';
+      section.parentNode.insertBefore(slideWrapper, section);
+    }
+    if (slideWrapper) {
+      slideWrapper.appendChild(section);
+    }
+  });
+
+  // Definir el índice del slide actual
+  let currentSlideIndex = 0;
+  const slides = document.querySelectorAll('.slide');
+
+  // Función para mostrar el slide actual
+  function showSlide(index) {
+    slides.forEach(slide => slide.classList.remove('active-slide'));
+    slides[index].classList.add('active-slide');
+  }
+
+  // Botones de navegación
+  const navButtons = document.createElement('div');
+  navButtons.className = 'navigation-buttons';
+  navButtons.innerHTML = `
+    <button onclick="prevSlide()">Anterior</button>
+    <button onclick="nextSlide()">Siguiente</button>
+  `;
+  document.body.appendChild(navButtons);
+
+  // Funciones para navegar entre slides
+  function prevSlide() {
+    if (currentSlideIndex > 0) {
+      currentSlideIndex -= 1;
+      showSlide(currentSlideIndex);
+    }
+  }
+
+  function nextSlide() {
+    if (currentSlideIndex < slides.length - 1) {
+      currentSlideIndex += 1;
+      showSlide(currentSlideIndex);
+    }
+  }
+
+  // Mostrar el primer slide al cargar la página
+  showSlide(currentSlideIndex);
+
+}
