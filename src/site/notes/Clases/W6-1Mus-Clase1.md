@@ -3,7 +3,7 @@
 ---
 
 
----
+<div class=slide>
 
 ## Leyendo
 
@@ -25,14 +25,16 @@ $<div class="markdown-embed-title">
 </div></div>
 
 
----
+<div class=slide>-
+<div class=slide>
 
 > [!tldr] Tarea
 > - [Página 16, ejercicio 7](https://www.blinklearning.com/v/1695898303/themes/tmpux/launch.php#activity/4239478/65132310/421303490)
 > - Tricordio + 3ª
 > - Pentacordio con na
 
----
+<div class=slide>-
+<div class=slide>
 
 ## Ritmo
 
@@ -49,13 +51,15 @@ $<div class="markdown-embed-title">
 </div></div>
 
 
----
+<div class=slide>-
+<div class=slide>
 
 ## ¡Vamos a cantar!
 
 [I Knew You Were Trouble by Taylor Swift](https://www.hooktheory.com/hookpad/iframe/dPoDWapZxnM?enableYouTube=true&showPianoInstrument=false&showRewindControl=false&tabPlayType=tab-play-type-youtube)
 
----
+<div class=slide>-
+<div class=slide>
 
 ## Ordenamientos
 
@@ -64,7 +68,8 @@ Trocordio + 3ª
 	sólo nombres de notas
 Pentacordio con na
 
----
+<div class=slide>-
+<div class=slide>
 
 ## Entonación
 
@@ -80,7 +85,8 @@ Pentacordio con na
 </div></div>
 
 
----
+<div class=slide>-
+<div class=slide>
 
 ## Trabajo con canciones - ritmo
 
@@ -110,7 +116,8 @@ a nadar te podrá enseñar.
 </div></div>
 
 
----
+<div class=slide>-
+<div class=slide>
 
 ## Dictado rítmico
 
@@ -133,7 +140,8 @@ $<div class="markdown-embed-title">
 </div></div>
 
 
----
+<div class=slide>-
+<div class=slide>
 
 ## Ukelele
 
@@ -142,8 +150,11 @@ $<div class="markdown-embed-title">
 - En su cuna rosa
 - Acorde de Do M, re m
 
----
+<div class=slide>-
+<div class=slide>
 
 ## Ama - Extremoduro
 
 [Canción procesada](https://studio.moises.ai/player2/be55d2b5-bc8b-43d8-8c7b-ff1c8ffeb256/?context=spliter)
+
+<div class=slide>-
