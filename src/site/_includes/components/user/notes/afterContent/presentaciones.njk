@@ -1,74 +1,59 @@
-<script>
+<script
 // Obtén el título del documento
 const title = document.title;
 
 // Verifica si el título comienza con 'W' seguido de un dígito
 if (title.match(/^W\d/)) {
-
-    // Crea un contenedor temporal y mueve todos los elementos del cuerpo a él
-    const tempContainer = document.createElement('div');
-    while (document.body.firstChild) {
-        tempContainer.appendChild(document.body.firstChild);
+  
+  // Encuentra todas las secciones entre <hr> y envuélvelas en un div con la clase 'slide'
+  const sections = document.querySelectorAll('hr ~ *:not(hr)');
+  let slideWrapper = null;
+  sections.forEach((section, index) => {
+    if (index % 2 === 0) {
+      slideWrapper = document.createElement('div');
+      slideWrapper.className = 'slide';
+      section.parentNode.insertBefore(slideWrapper, section);
     }
+    slideWrapper.appendChild(section);
+  });
 
-    // Contenedor para las slides
-    const slidesContainer = document.createElement('div');
-    slidesContainer.className = 'slides-container';
-    document.body.appendChild(slidesContainer);
+  // Definir el índice del slide actual
+  let currentSlideIndex = 0;
+  const slides = document.querySelectorAll('.slide');
 
-    // Contenedor inicial para la primera slide
-    let slideContainer = document.createElement('div');
-    slideContainer.className = 'slide';
-    slidesContainer.appendChild(slideContainer);
+  // Función para mostrar el slide actual
+  function showSlide(index) {
+    slides.forEach(slide => slide.classList.remove('active-slide'));
+    slides[index].classList.add('active-slide');
+  }
 
-    // Itera a través de los elementos
-    Array.from(tempContainer.children).forEach(element => {
-        // Si el elemento es un <h2>, crea una nueva slide
-        if (element.tagName === 'H2') {
-            slideContainer = document.createElement('div');
-            slideContainer.className = 'slide';
-            slidesContainer.appendChild(slideContainer);
-        }
-        // Mueve el elemento a la slide actual
-        slideContainer.appendChild(element);
-    });
+  // Botones de navegación
+  const navButtons = document.createElement('div');
+  navButtons.className = 'navigation-buttons';
+  navButtons.innerHTML = `
+    <button onclick="prevSlide()">Anterior</button>
+    <button onclick="nextSlide()">Siguiente</button>
+  `;
+  document.body.appendChild(navButtons);
 
-    // Definir el índice del slide actual
-    let currentSlideIndex = 0;
-    const slides = document.querySelectorAll('.slide');
-
-    // Función para mostrar el slide actual
-    function showSlide(index) {
-        slides.forEach(slide => slide.classList.remove('active-slide'));
-        slides[index].classList.add('active-slide');
+  // Funciones para navegar entre slides
+  function prevSlide() {
+    if (currentSlideIndex > 0) {
+      currentSlideIndex -= 1;
+      showSlide(currentSlideIndex);
     }
+  }
 
-    // Botones de navegación
-    const navButtons = document.createElement('div');
-    navButtons.className = 'navigation-buttons';
-    navButtons.innerHTML = `
-        <button onclick="prevSlide()">Anterior</button>
-        <button onclick="nextSlide()">Siguiente</button>
-    `;
-    document.body.appendChild(navButtons);
-
-    // Funciones para navegar entre slides
-    window.prevSlide = function() {
-        if (currentSlideIndex > 0) {
-            currentSlideIndex -= 1;
-            showSlide(currentSlideIndex);
-        }
+  function nextSlide() {
+    if (currentSlideIndex < slides.length - 1) {
+      currentSlideIndex += 1;
+      showSlide(currentSlideIndex);
     }
+  }
 
-    window.nextSlide = function() {
-        if (currentSlideIndex < slides.length - 1) {
-            currentSlideIndex += 1;
-            showSlide(currentSlideIndex);
-        }
-    }
+  // Mostrar el primer slide al cargar la página
+  showSlide(currentSlideIndex);
 
-    // Mostrar el primer slide al cargar la página
-    showSlide(currentSlideIndex);
 }
-
 </script>
+```
