@@ -20,4 +20,4 @@ F4 G4 | A4 G4 | F4 E4 | D4 z4 |
 
 <div id="paper"></div>
 
-<script>ABCJS.renderAbc("paper", "X:1\nK:D\nDD AA|BBA2|\n");</script>
+<script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper", "X:1\nT:Melodia por Grados Conjuntos\nM:2/4\nK:C\nG4 E4 | F4 D4 | E4 C4 | D4 E4 | F4 G4 | A4 G4 | F4 E4 | D4 z4 |\n"); }); </script>
