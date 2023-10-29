@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/clases/w6-1-mus-clase1/"}
 ---
 
+
+---
+
 ## Leyendo
 
 
@@ -30,6 +33,7 @@ $<div class="markdown-embed-title">
 > - Pentacordio con na
 
 ---
+
 ## Ritmo
 
 
@@ -46,11 +50,13 @@ $<div class="markdown-embed-title">
 
 
 ---
+
 ## ¡Vamos a cantar!
 
 [I Knew You Were Trouble by Taylor Swift](https://www.hooktheory.com/hookpad/iframe/dPoDWapZxnM?enableYouTube=true&showPianoInstrument=false&showRewindControl=false&tabPlayType=tab-play-type-youtube)
 
 ---
+
 ## Ordenamientos
 
 Trocordio + 3ª
@@ -59,6 +65,7 @@ Trocordio + 3ª
 Pentacordio con na
 
 ---
+
 ## Entonación
 
 
@@ -74,6 +81,7 @@ Pentacordio con na
 
 
 ---
+
 ## Trabajo con canciones - ritmo
 
 
@@ -104,7 +112,6 @@ a nadar te podrá enseñar.
 
 ---
 
-
 ## Dictado rítmico
 
 
@@ -127,6 +134,7 @@ $<div class="markdown-embed-title">
 
 
 ---
+
 ## Ukelele
 
  Cuerdas abiertas
@@ -135,6 +143,7 @@ $<div class="markdown-embed-title">
 - Acorde de Do M, re m
 
 ---
+
 ## Ama - Extremoduro
 
 [Canción procesada](https://studio.moises.ai/player2/be55d2b5-bc8b-43d8-8c7b-ff1c8ffeb256/?context=spliter)
