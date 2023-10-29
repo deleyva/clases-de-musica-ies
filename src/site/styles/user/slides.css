@@ -1,0 +1,21 @@
+.slide {
+    display: none; /* Ocultar todos los slides por defecto */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    overflow: auto;
+  }
+  
+  .active-slide {
+    display: block; /* Mostrar solo el slide activo */
+  }
+  
+  .navigation-buttons {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  
