@@ -5,18 +5,16 @@ const title = document.title;
 // Verifica si el título comienza con 'W' seguido de un dígito
 if (title.match(/^W\d/)) {
   
-  // Encuentra todos los elementos entre <hr> y agrúpalos en un div con la clase 'slide'
-  const sections = Array.from(document.querySelectorAll('body > *:not(script):not(.navigation-buttons)'));
+  // Encuentra todas las secciones entre <hr> y envuélvelas en un div con la clase 'slide'
+  const sections = document.querySelectorAll('hr ~ *:not(hr)');
   let slideWrapper = null;
   sections.forEach((section, index) => {
-    if (section.tagName === 'HR' || section.tagName === 'H2') {
+    if (index % 2 === 0) {
       slideWrapper = document.createElement('div');
       slideWrapper.className = 'slide';
       section.parentNode.insertBefore(slideWrapper, section);
     }
-    if (slideWrapper) {
-      slideWrapper.appendChild(section);
-    }
+    slideWrapper.appendChild(section);
   });
 
   // Definir el índice del slide actual
