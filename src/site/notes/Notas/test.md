@@ -9,15 +9,20 @@ a ver
 
 ![../Assets/Pasted image 20231022150046.png|undefined](/img/user/Assets/Pasted%20image%2020231022150046.png)
 
-```music-abc
-X:1
+
+> [!TIP]- Solución
+><div id="paper"></div>
+><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper", `X:1
 T:Melodia por Grados Conjuntos
 M:2/4
 K:C
-G4 E4 | F4 D4 | E4 C4 | D4 E4 | 
-F4 G4 | A4 G4 | F4 E4 | D4 z4 |
-```
-
-<div id="paper"></div>
-
-<script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper", "X:1\nT:Melodia por Grados Conjuntos\nM:2/4\nK:C\nG4 E4 | F4 D4 | E4 C4 | D4 E4 | F4 G4 | A4 G4 | F4 E4 | D4 z4 |\n"); }); </script>
+G4 E4 
+ F4 D4 
+ E4 C4 
+ D4 E4 
+ 
+F4 G4 
+ A4 G4 
+ F4 E4 
+ D4 z4 
+`); }); </script>
