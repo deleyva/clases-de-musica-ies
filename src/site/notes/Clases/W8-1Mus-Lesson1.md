@@ -6,8 +6,8 @@
 <div class=slide>
 
 ## Reading
-> [!tldr] Task
-	- [Pág 17, ejercicios 11 y 12](https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#activity/4239478/65132310/421303490)
+
+> [!tldr] Task 	- [Pág 17, ejercicios 11 y 12](https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#activity/4239478/65132310/421303490)
 > -  Tricordio + 3ª, Pentacordio + Acorde.
 > - Ukelele. El ratón
 
