@@ -24,6 +24,7 @@ Din, dan, din,din,dan, las campanas sonarán.
 
 >[!EXAMPLE]- Más
 >![../Assets/Pasted image 20231028073813.png|undefined](/img/user/Assets/Pasted%20image%2020231028073813.png)
+><iframe src="https://www.soundslice.com/slices/kZmwc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
 ### En su cuna rosa
 
@@ -34,6 +35,7 @@ ea eeea
 
 >[!EXAMPLE]- Más
 >![../Assets/Pasted image 20231028072741.png|undefined](/img/user/Assets/Pasted%20image%2020231028072741.png)
+><iframe src="https://www.soundslice.com/slices/WZmwc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
 ### En el mar
 
