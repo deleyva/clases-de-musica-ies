@@ -62,9 +62,11 @@
 
 ## Rhythmic dictation
 
+<audio src="https://docs.google.com/uc?export=download&id=https://drive.google.com/file/d/1eT-bhg4xjl7O_gdEOya5EFOA-_73r-S_/view?usp=drive_link" controls></audio>
+
 > [!TIP]- Solución
-><div id="paper"></div>
-><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper", "X: 1\nT: Solución dictado rítmico\nM: 4/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 z2 A2 | A4 z4 | A2 z2 A2 z2 | A2 A2 z4 |]"); }); </script>
+><div id="paper1"></div>
+><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper1", "X: 1\nT: Solución dictado rítmico\nM: 4/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 z2 A2 | A2 z2 A4 | z4 A2 A2 | A8 |]"); }); </script>
 >
 
 </div>
@@ -79,6 +81,17 @@ los copos caen aquí y allá y todo blanco está.
 
 >[!EXAMPLE]- Más
 >![../Assets/Pasted image 20231028073941.png|undefined](/img/user/Assets/Pasted%20image%2020231028073941.png)
+
+</div>
+<div class=slide>
+
+### Din, dan
+
+Din, dan, din,din,dan, las campanas sonarán.
+
+>[!EXAMPLE]- Más
+>![../Assets/Pasted image 20231028073813.png|undefined](/img/user/Assets/Pasted%20image%2020231028073813.png)
+><iframe src="https://www.soundslice.com/slices/kZmwc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
 </div>
 <div class=slide>
