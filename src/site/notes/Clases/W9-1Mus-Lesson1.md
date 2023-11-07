@@ -6,13 +6,13 @@
 
 ## Reading
 
-- [Ordered sounds, page 23](https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#activity/4239474/65076210/420820862)
+- [Ordered sounds, page 23](https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#activity/4239474/65076210/420820862) [esp](https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#responsive/book/4177206)
 
 </div>
 <div class=slide>
 
 > [!tldr] Task
-> - [Page 19, exercises 18, 19, 20](https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#activity/4239478/65132310/421303490)
+> - [Page 19, exercises 18, 19, 20](https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#activity/4239478/65132310/421303490) https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#activity/4177202/63867086/409791734
 > - 3ª, Pentacordio + acorde
 > - Ukelele: In my little village
 
@@ -62,7 +62,7 @@
 
 ## Rhythmic dictation
 
-<audio src="https://docs.google.com/uc?export=download&id=https://drive.google.com/file/d/1eT-bhg4xjl7O_gdEOya5EFOA-_73r-S_/view?usp=drive_link" controls></audio>
+<audio src="https://docs.google.com/uc?export=download&id=1eT-bhg4xjl7O_gdEOya5EFOA-_73r-S_" controls></audio>
 
 > [!TIP]- Solución
 ><div id="paper1"></div>
