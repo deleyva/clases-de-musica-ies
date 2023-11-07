@@ -15,7 +15,7 @@
 
 ## 02 4/4 Negras, blancas y silencios de negras
 
-<audio src="https://docs.google.com/uc?export=download&id=https://drive.google.com/file/d/1eT-bhg4xjl7O_gdEOya5EFOA-_73r-S_/view?usp=drive_link" controls></audio>
+<audio src="https://docs.google.com/uc?export=download&id=1eT-bhg4xjl7O_gdEOya5EFOA-_73r-S_" controls></audio>
 
 > [!TIP]- Solución
 ><div id="paper1"></div>
