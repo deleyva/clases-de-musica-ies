@@ -5,7 +5,7 @@
 <div class=slide>
 
 > [!tldr] Task
-> - Page 19, exercise 21](https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#activity/4239478/65132310/421303490)
+> - [Page 19, exercise 21](https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#activity/4239478/65132310/421303490) [esp](https://www.blinklearning.com/v/1698317425/theme_tmpux/launch.php?theme=tmpux#activity/4239478/65132310/421303490)
 > - Ukelele: In my little village. Ya nieva
 > - 3ª, Pentacordio + acorde
 
@@ -47,6 +47,7 @@ los copos caen aquí y allá y todo blanco está.
 
 >[!EXAMPLE]- Más
 >![../Assets/Pasted image 20231028073941.png|undefined](/img/user/Assets/Pasted%20image%2020231028073941.png)
+><iframe src="https://www.soundslice.com/slices/W1vwc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
 </div>
 <div class=slide>
@@ -83,4 +84,23 @@ los copos caen aquí y allá y todo blanco está.
 
 [Letra](https://www.letras.com/imagine-dragons/believer/traduccion.html)
 
+</div>
+<div class=slide>
+
+## Song
+
+[Believer - Imagine Dragons](https://studio.moises.ai/player2/f05e7a3a-1a81-443c-a8fa-d8df66fa5b4e/?context=spliter) - Second verse
+
+<audio src="https://docs.google.com/uc?export=download&id=1PDSZ_mhSHHEpu7vbaB_aaQsfHz9V7MbG" controls></audio>
+
+[Letra](https://www.letras.com/imagine-dragons/believer/traduccion.html)
+
+</div>
+<div class=slide>
+
+[Ama, ama y ensancha el alma - Extremoduro](https://studio.moises.ai/player2/be55d2b5-bc8b-43d8-8c7b-ff1c8ffeb256/?context=spliter) 
+
+[Letra](https://lyrics.lyricfind.com/lyrics/in-pulso-ama-ama-ama-y-ensancha-el-alma-version-extremoduro)
+
+<audio src="https://docs.google.com/uc?export=download&id=https://drive.google.com/file/d/1zpwk09KzIn8fdwATL--ZgFO1GhhRAGCt/view?usp=sharing" controls></audio>
 </div>
