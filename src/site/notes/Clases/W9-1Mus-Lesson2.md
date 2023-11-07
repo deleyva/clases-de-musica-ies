@@ -48,7 +48,20 @@ los copos caen aquí y allá y todo blanco está.
 >[!EXAMPLE]- Más
 >![../Assets/Pasted image 20231028073941.png|undefined](/img/user/Assets/Pasted%20image%2020231028073941.png)
 
----
+</div>
+<div class=slide>
+
+## Rhythmic dictation
+
+<audio src="https://docs.google.com/uc?export=download&id=1eT-bhg4xjl7O_gdEOya5EFOA-_73r-S_" controls></audio>
+
+> [!TIP]- Solución
+><div id="paper1"></div>
+><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper1", "X: 1\nT: Solución dictado rítmico\nM: 4/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 z2 A2 | A2 z2 A4 | z4 A2 A2 | A8 |]"); }); </script>
+>
+
+</div>
+<div class=slide>
 
 ## Audition test
 
@@ -58,5 +71,16 @@ los copos caen aquí y allá y todo blanco está.
 
 > [!TIP]- Solución
 >Test 02: 1: ↑   2: ↑    3: ↓    4: ↑    5: ↓    6: ↓    7: ↓    8: ↑    9: ↓    10: ↓
+
+</div>
+<div class=slide>
+
+## Song
+
+[Believer - Imagine Dragons](https://studio.moises.ai/player2/f05e7a3a-1a81-443c-a8fa-d8df66fa5b4e/?context=spliter) - Second verse
+
+<audio src="https://docs.google.com/uc?export=download&id=1PDSZ_mhSHHEpu7vbaB_aaQsfHz9V7MbG" controls></audio>
+
+[Letra](https://www.letras.com/imagine-dragons/believer/traduccion.html)
 
 </div>
