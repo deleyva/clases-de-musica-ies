@@ -3,7 +3,8 @@
 ---
 
 <div class=slide>
-### Rhythmic Dictation
+
+## Rhythmic Dictation
 
 ## 02 4/4 Negras, blancas y silencios de negras
 
@@ -15,7 +16,8 @@
 
 </div>
 <div class=slide>
-### Audition Test
+
+## Audition Test
 
 ### 02-4
 
@@ -26,7 +28,8 @@
 
 </div>
 <div class=slide>
-### Melodic Dictation
+
+## Melodic Dictation
 
 ### 01 - 2/4 Tres notas
 
