@@ -8,7 +8,7 @@
 
 ## 02 4/4 Negras, blancas y silencios de negras
 
-<audio src="https://docs.google.com/uc?export=download&id=1eT-bhg4xjl7O_gdEOya5EFOA-_73r-S_" controls></audio>
+<audio src="https://docs.google.com/uc?export=download&id=1RfJkDfCQW8EDcPBs0U5CIl0hpDz0X52K" controls></audio>
 
 > [!TIP]- Solución
 ><div id="paper1" style="width: 100%;"></div>
@@ -33,11 +33,10 @@
 
 ### 01 - 2/4 Tres notas
 
-<video src="https://docs.google.com/uc?export=download&id=" controls></video>
+<video src="https://docs.google.com/uc?export=download&id=1RfJkDfCQW8EDcPBs0U5CIl0hpDz0X52K" controls></video>
 
-> [!TIP]- Solución >
-> <div id="paper"></div>
-> <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper", `X: 1\nT: Dictado Melódico\nM: 2/4\nL: 1/4\nK: C\nC D|E2|D E |D2|E E|D D|C2 | C2 |]\n`, {responsive: resize}); }); </script>
->
+> [!TIP]- Solución
+><div id="paper"></div>
+><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper", `X: 1\nT: Dictado Melódico\nM: 2/4\nL: 1/4\nK: C\nC D|E2|D E |D2|E E|D D|C2 | C2 |]`); });</script>
 
 </div>
