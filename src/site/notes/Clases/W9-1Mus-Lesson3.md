@@ -8,7 +8,7 @@
 
 ## 02 4/4 Negras, blancas y silencios de negras
 
-<audio src="https://docs.google.com/uc?export=download&id=1RfJkDfCQW8EDcPBs0U5CIl0hpDz0X52K" controls></audio>
+<video src="https://docs.google.com/uc?export=download&id=1RfJkDfCQW8EDcPBs0U5CIl0hpDz0X52K" controls></video>
 
 > [!TIP]- Solución
 ><div id="paper1" style="width: 100%;"></div>
