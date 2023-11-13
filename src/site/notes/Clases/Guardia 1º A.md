@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/clases/guardia-1-a/"}
 ---
 
+
 <div class=slide>
 
 ## Copia y completa este ordenamiento
