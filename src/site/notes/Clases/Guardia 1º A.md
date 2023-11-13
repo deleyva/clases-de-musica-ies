@@ -14,6 +14,8 @@
 
 ## Copia estos diagramas de acordes
 
-![../Assets/Pasted image 20231113093040.png|undefined](/img/user/Assets/Pasted%20image%2020231113093040.png) | ![../Assets/Pasted image 20231113093121.png|undefined](/img/user/Assets/Pasted%20image%2020231113093121.png) | ![../Assets/Pasted image 20231113093141.png|undefined](/img/user/Assets/Pasted%20image%2020231113093141.png)
+![../Assets/Pasted image 20231113093040.png|undefined](/img/user/Assets/Pasted%20image%2020231113093040.png)
+![../Assets/Pasted image 20231113093121.png|undefined](/img/user/Assets/Pasted%20image%2020231113093121.png)
+![../Assets/Pasted image 20231113093141.png|undefined](/img/user/Assets/Pasted%20image%2020231113093141.png)
 
 </div>
