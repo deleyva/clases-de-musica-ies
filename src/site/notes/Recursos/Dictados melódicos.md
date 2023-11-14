@@ -29,6 +29,6 @@
 ### 04 - 2/4 Cinco notas
 
 > [!TIP]- Solución >
-> <div id="paper2"></div>
-> <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper2", `X: 1\nT: Dictado Melódico\nM: 2/4\nL: 1/4\nK: C\nG F| E D | E F | G2|F E|F E|D2 | C2 |]\n`); }); </script>
+> <div id="paper3"></div>
+> <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper3", `X: 1\nT: Dictado Melódico\nM: 2/4\nL: 1/4\nK: C\nG F| E D | E F | G2|F E|F E|D2 | C2 |]\n`); }); </script>
 
