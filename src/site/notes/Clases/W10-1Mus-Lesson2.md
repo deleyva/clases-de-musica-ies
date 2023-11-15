@@ -34,7 +34,7 @@ Ya nieva, ya nieva, ya nieva en la ciudad,
 los copos caen aquí y allá y todo blanco está.
 
 >[!EXAMPLE]- Más
->![../Assets/Pasted image 20231028073941.png|undefined](/img/user/Assets/Pasted%20image%2020231028073941.png)
+>![[../Assets/Pasted image 20231028073941.png[]()\|../Assets/Pasted image 20231028073941.png[]()]]
 ><iframe src="https://www.soundslice.com/slices/W1vwc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
 </div>
