@@ -110,6 +110,7 @@ ea eeea
 
 >[!EXAMPLE]- Más
 >![../Assets/Pasted image 20231028072741.png|undefined](/img/user/Assets/Pasted%20image%2020231028072741.png)
+><iframe src="https://www.soundslice.com/slices/WZmwc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
 
 </div></div>
