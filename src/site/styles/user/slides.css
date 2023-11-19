@@ -24,6 +24,6 @@
   }
   
 /* establecer overflow: auto; a todos los div cuya class comience por paper */
-div[class^="paper"] {
+div[id^="paper"] {
   overflow: auto !important;
 }
