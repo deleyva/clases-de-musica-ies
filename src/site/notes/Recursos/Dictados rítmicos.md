@@ -18,7 +18,7 @@
 
 > [!TIP]- Solución
 ><div id="paper2"></div>
-><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper1", "X: 1\nT: Solución dictado rítmico\nM: 4/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 z2 A2 | A2 z2 A4 | z4 A2 A2 | A8 |]"); }); </script>
+><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper2", "X: 1\nT: Solución dictado rítmico\nM: 4/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 z2 A2 | A2 z2 A4 | z4 A2 A2 | A8 |]"); }); </script>
 >
 
 ## 03 - 2/4 Corcheas, negras, blancas y silencios
@@ -26,13 +26,13 @@
 
 
 > [!TIP]- Solución
-><div id="paper3" style="overflow: hidden; width: 100%; height: 116.87px;"></div>
+><div id="paper3" style="overflow: auto; width: 100%; height: 116.87px;"></div>
 ><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper3", "X: 1\nT: Solución dictado rítmico\nM: 2/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 | z2 A2 | A2 A2 | A4 |A2 z2 |A2 z2 |A A A2 |A4 |]"); }); </script>
 
-## 03 - 2/4 Corcheas, negras, blancas y silencios
+## 04 - 2/4 Corcheas, negras, blancas y silencios
 
 
 > [!TIP]- Solución
-><div id="paper4" style="overflow: hidden; width: 100%; height: 116.87px;"></div>
+><div id="paper4" style="overflow: auto; width: 100%; height: 116.87px;"></div>
 ><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper4", "X: 1\nT: Solución dictado rítmico\nM: 2/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 | z2 A2 | A2 A2 | A4 |A2 z2 |A2 z2 |A A A2 |A4 |]"); }); </script>
 >
