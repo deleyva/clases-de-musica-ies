@@ -13,6 +13,14 @@
 </div>
 <div class=slide>
 
+
+1. https://quizizz.com/embed/quiz/6557587d6a4f9a2a3a028b44?authuser=0
+2. https://quizizz.com/embed/quiz/6557957684c6de7d9cd4d8ef?authuser=0
+3. https://quizizz.com/embed/quiz/6558d463762224fa802a5186?authuser=0
+
+</div>
+<div class=slide>
+
 ## Rhythm / Ritmo
 
 ![../Assets/Pasted image 20231023110741.png|undefined](/img/user/Assets/Pasted%20image%2020231023110741.png)
@@ -72,8 +80,4 @@
 ![../Assets/Pasted image 20231119215010.png|undefined](/img/user/Assets/Pasted%20image%2020231119215010.png)
 
 </div>
-
-
-
-
 
