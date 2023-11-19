@@ -27,7 +27,8 @@
 
 > [!TIP]- Solución
 ><div id="paper3" style="overflow: auto;"></div>
-><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper3", "X: 1\nT: Solución dictado rítmico\nM: 2/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 | z2 A2 | A2 A2 | A4 |A2 z2 |A2 z2 |A A A2 |A4 |]"); }); </script>
+><div id="midi3">
+><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper3", "X: 1\nT: Solución dictado rítmico\nM: 2/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 | z2 A2 | A2 A2 | A4 |A2 z2 |A2 z2 |A A A2 |A4 |]"); window.ABCJS.renderMidi("midi3", "X: 1\nT: Solución dictado rítmico\nM: 2/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 | z2 A2 | A2 A2 | A4 |A2 z2 |A2 z2 |A A A2 |A4 |]", {}, { generateInline: true }, {});}); </script>
 
 ## 04 - 2/4 Corcheas, negras, blancas y silencios
 
