@@ -19,15 +19,8 @@
 
 </div>
 <div class=slide> 
+
 ## Rhythmic dictation / Dictado rítmico
-
-</div>
-
-<div class=slide>
-
-## Let's Sing! / ¡Cantemos!
-
-[[Notas/Impregnación\|Impregnación]]
 
 </div>
 <div class=slide>
@@ -45,9 +38,8 @@
 [[Recursos/Canciones didácticas\|Canciones didácticas]]
 
 </div>
-
- 
 <div class=slide>
+
 ## Ukelele
 
 </div>
