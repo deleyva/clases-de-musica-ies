@@ -82,21 +82,6 @@ $<div class="markdown-embed-title">
 </div>
 <div class=slide>
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-$<div class="markdown-embed-title">
-
-# Canciones actuales
-
-</div>
-
-
-### Perfect - Ed Sheeran
-
-![[../Assets/Perfect - Ed Sheeran.pdf]]
-
-</div></div>
-
+![../Assets/Pasted image 20231128092023.png|undefined](/img/user/Assets/Pasted%20image%2020231128092023.png)
 
 </div>
