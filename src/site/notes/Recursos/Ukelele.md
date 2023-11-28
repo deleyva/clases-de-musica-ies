@@ -32,3 +32,12 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 
 <iframe src="https://www.soundslice.com/slices/W1vwc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
+### Escalas en cada cuerda
+
+<iframe src="https://www.soundslice.com/slices/LDwYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
+
+### Cuatro primeros acordes
+
+<iframe src="https://www.soundslice.com/slices/dMwYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
+
+
