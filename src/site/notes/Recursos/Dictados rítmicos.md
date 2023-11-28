@@ -24,16 +24,18 @@
 ## 03 - 2/4 Corcheas, negras, blancas y silencios
 
 
+<audio src="https://docs.google.com/uc?export=download&id=124swCNyDPJPC9WaLUI6gQt5Xu9hrGfBZ" controls></audio>
+
 
 > [!TIP]- Solución
 ><div id="paper3" style="overflow: auto;"></div>
 ><div id="midi3"></div>
-><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper3", "X: 1\nT: Solución dictado rítmico\nM: 2/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 | z2 A2 | A2 A2 | A4 |A2 z2 |A2 z2 |A A A2 |A4 |]"); window.ABCJS.renderMidi("midi3", "X: 1\nT: Solución dictado rítmico\nM: 2/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 | z2 A2 | A2 A2 | A4 |A2 z2 |A2 z2 |A A A2 |A4 |]", {}, { generateInline: true }, {});}); </script>
+><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper3", "X: 1\nT: Solución dictado rítmico\nM: 4/4\nL: 1/4\nK: perc stafflines = -1\nA A A A | z2 A2 | A2 A2 | A4 |]"); window.ABCJS.renderMidi("midi3", "X: 1\nT: Solución dictado rítmico\nM: 4/4\nL: 1/4\nK: perc stafflines = -1\nA2 A2 | z2 A2 | A2 A2 | A4 |A2 z2 |A2 z2 |A A A2 |A4 |]", {}, { generateInline: true }, {});}); </script>
 
 ## 04 - 2/4 Corcheas, negras, blancas y silencios
 
 
 > [!TIP]- Solución
 ><div id="paper4"  style="overflow: auto;"></div>
-><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper4", "X: 1\nT: Solución dictado rítmico\nM: 2/4\nL: 1/8\nK: perc stafflines = -1\nA2 A2 | z2 A2 | A2 A2 | A4 |A2 z2 |A2 z2 |A A A2 |A4 |]"); }); </script>
->
+><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper4", "X: 1\nT: Solución dictado rítmico\nM: 4/4\nL: 1/4\nK: perc stafflines = -1\nA2 A2 | z A A A | A2 z A | A A A2 |]"); }); </script>
+
