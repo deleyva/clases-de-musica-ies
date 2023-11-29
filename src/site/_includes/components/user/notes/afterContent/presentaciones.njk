@@ -72,6 +72,13 @@ document.body.appendChild(navButtons);
     });
 
 
+    var sidebar = document.querySelector('.sidebar');
+    if (sidebar) {
+        sidebar.classList.add('margin-top-zero');
+    }
+
+
+
   // Mostrar el primer slide al cargar la página
   showSlide(currentSlideIndex);
 
