@@ -31,6 +31,7 @@ div[id^="paper"] {
 /* Imágenes ocupando todo el ancho */
 img {
   width: 100%;
+  padding: 2px;
 }
 
 /* Ajustar el margin-top de la clase sidebar a 0 si el título de la página empieza con W + dígito */

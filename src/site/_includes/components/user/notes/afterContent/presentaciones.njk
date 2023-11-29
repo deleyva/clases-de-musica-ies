@@ -72,10 +72,14 @@ document.body.appendChild(navButtons);
     });
 
 
-    var sidebar = document.querySelector('.sidebar');
-    if (sidebar) {
-        sidebar.classList.add('margin-top-zero');
-    }
+    document.addEventListener("DOMContentLoaded", function() {
+        // Tu código aquí
+        var sidebar = document.querySelector('.sidebar');
+        if (sidebar) {
+            sidebar.classList.add('margin-top-zero');
+        }
+    });
+
 
 
 
