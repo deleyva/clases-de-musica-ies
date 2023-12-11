@@ -86,6 +86,8 @@ mi, re, do, quien lo cogió.
 </div>
 <div class="slide">
 
+<div id='tuElementoParaMostrarLaCancion'></div>
+
 <script>
 document.addEventListener('DOMContentLoaded', (event) => {
 	// tu código que utiliza ChordSheetJS aquí 
@@ -99,6 +101,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 	const song = parser.parse(chordSheet);
 	const formatter = new ChordSheetJS.HtmlDivFormatter();
 	const disp = formatter.format(song);
+	const displayDiv = document.getElementById('tuElementoParaMostrarLaCancion'); displayDiv.innerHTML = disp;
 });
 </script>
 
