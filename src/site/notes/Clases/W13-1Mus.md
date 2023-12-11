@@ -84,27 +84,5 @@ mi, re, do, quien lo cogió.
 ![../Assets/Pasted image 20231211110831.png|undefined](/img/user/Assets/Pasted%20image%2020231211110831.png)
 
 </div>
-<div class="slide">
-
-<div id='tuElementoParaMostrarLaCancion'></div>
-
-<script>
-document.addEventListener('DOMContentLoaded', (event) => {
-	// tu código que utiliza ChordSheetJS aquí 
-	const chordSheet = `
-	       Am         C/G        F          C
-	Let it be, let it be, let it be, let it be
-	C                G              F  C/E Dm C
-	Whisper words of wisdom, let it be`.substring(1);
-	
-	const parser = new ChordSheetJS.ChordsOverWordsParser();
-	const song = parser.parse(chordSheet);
-	const formatter = new ChordSheetJS.TextFormatter();
-	const disp = formatter.format(song);
-	const displayDiv = document.getElementById('tuElementoParaMostrarLaCancion'); displayDiv.innerHTML = disp;
-});
-</script>
-
-</div>
 
 
