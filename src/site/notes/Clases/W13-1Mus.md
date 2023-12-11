@@ -84,5 +84,10 @@ mi, re, do, quien lo cogió.
 ![../Assets/Pasted image 20231211110831.png|undefined](/img/user/Assets/Pasted%20image%2020231211110831.png)
 
 </div>
+<div class="slide">
+
+[pdf](https://drive.google.com/file/d/1uqxdheMVMDsJfMaaVzpRkKHw5Rxa6Skj/view?usp=sharing)
+
+</div>
 
 
