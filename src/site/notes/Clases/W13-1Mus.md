@@ -87,7 +87,8 @@ mi, re, do, quien lo cogió.
 <div class="slide">
 
 <script>
-document.addEventListener('DOMContentLoaded', (event) => { // tu código que utiliza ChordSheetJS aquí 
+document.addEventListener('DOMContentLoaded', (event) => {
+	// tu código que utiliza ChordSheetJS aquí 
 	const chordSheet = `
 	       Am         C/G        F          C
 	Let it be, let it be, let it be, let it be
