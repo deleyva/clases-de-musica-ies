@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 	
 	const parser = new ChordSheetJS.ChordsOverWordsParser();
 	const song = parser.parse(chordSheet);
-	const formatter = new ChordSheetJS.HtmlDivFormatter();
+	const formatter = new ChordSheetJS.TextFormatter();
 	const disp = formatter.format(song);
 	const displayDiv = document.getElementById('tuElementoParaMostrarLaCancion'); displayDiv.innerHTML = disp;
 });
