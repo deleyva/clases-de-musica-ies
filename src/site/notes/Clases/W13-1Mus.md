@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 	
 	const parser = new ChordSheetJS.ChordsOverWordsParser();
 	const song = parser.parse(chordSheet);
-	const formatter = new ChordSheetJS.TextFormatter();
+	const formatter = new ChordSheetJS.HtmlDivFormatter();
 	const disp = formatter.format(song);
 });
 </script>
