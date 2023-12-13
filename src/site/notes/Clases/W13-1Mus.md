@@ -62,6 +62,11 @@ $<div class="markdown-embed-title">
 </div>
 <div class=slide>
 
+![../Assets/Pasted image 20231211110831.png|undefined](/img/user/Assets/Pasted%20image%2020231211110831.png)
+
+</div>
+<div class=slide>
+
 ### Do, re, mi, yo te ví
 
 Do, re, mi, yo te vi,
@@ -79,14 +84,14 @@ mi, re, do, quien lo cogió.
 >![../Assets/Pasted image 20231028074834.png|undefined](/img/user/Assets/Pasted%20image%2020231028074834.png)
 
 </div>
-<div class=slide>
+<div class="slide">
 
-![../Assets/Pasted image 20231211110831.png|undefined](/img/user/Assets/Pasted%20image%2020231211110831.png)
+[pdf](https://drive.google.com/file/d/1uqxdheMVMDsJfMaaVzpRkKHw5Rxa6Skj/view?usp=sharing)
 
 </div>
 <div class="slide">
 
-[pdf](https://drive.google.com/file/d/1uqxdheMVMDsJfMaaVzpRkKHw5Rxa6Skj/view?usp=sharing)
+![../Assets/Pasted image 20231213192711.png|undefined](/img/user/Assets/Pasted%20image%2020231213192711.png)
 
 </div>
 
