@@ -91,7 +91,7 @@ mi, re, do, quien lo cogió.
 </div>
 <div class="slide">
 
-![../Assets/Pasted image 20231213192711.png|undefined](/img/user/Assets/Pasted%20image%2020231213192711.png)
+![../Assets/Pasted image 20231214101732.png|undefined](/img/user/Assets/Pasted%20image%2020231214101732.png)
 
 </div>
 
