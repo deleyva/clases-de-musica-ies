@@ -40,4 +40,7 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 
 <iframe src="https://www.soundslice.com/slices/dMwYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
+### Solo de Love Yourself - Justin Bieber
+
+<iframe src="https://www.soundslice.com/slices/5tTYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
