@@ -72,25 +72,6 @@ $<div class="markdown-embed-title">
 ![../Assets/Pasted image 20231211110831.png|undefined](/img/user/Assets/Pasted%20image%2020231211110831.png)
 
 </div>
-<div class=slide>
-
-### Do, re, mi, yo te ví
-
-Do, re, mi, yo te vi,
-mi, fa, sol, ¡caracol!
-fa, mi, re, contaré,
-mi, re, do, lo que pasó.
-
-Do, si, la, más allá,
-si, la, sol, bajo el sol,
-la, sol, fa, fue papá,
-mi, re, do, quien lo cogió.
-
->[!EXAMPLE]- Más
->![../Assets/Pasted image 20231028074818.png|undefined](/img/user/Assets/Pasted%20image%2020231028074818.png)
->![../Assets/Pasted image 20231028074834.png|undefined](/img/user/Assets/Pasted%20image%2020231028074834.png)
-
-</div>
 <div class="slide">
 
 ## Sistema CAGED para ukelele (CAGFD)
