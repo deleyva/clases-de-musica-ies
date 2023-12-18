@@ -36,6 +36,10 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 
 <iframe src="https://www.soundslice.com/slices/LDwYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
+### Escala mayor en 3 cuerdas
+
+![../Assets/Pasted image 20231211110831.png|undefined](/img/user/Assets/Pasted%20image%2020231211110831.png)
+
 ### Cuatro primeros acordes
 
 <iframe src="https://www.soundslice.com/slices/dMwYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
@@ -44,3 +48,6 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 
 <iframe src="https://www.soundslice.com/slices/5tTYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
+### Partes instrumentales de ama, ama y ensancha el alma - Extremoduro
+
+<iframe src="https://www.soundslice.com/slices/7XJYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
