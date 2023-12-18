@@ -105,3 +105,10 @@ mi, re, do, quien lo cogió.
 <iframe src="https://www.soundslice.com/slices/5tTYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
 </div>
+<div class="slide">
+
+### Partes instrumentales de ama, ama y ensancha el alma - Extremoduro
+
+<iframe src="https://www.soundslice.com/slices/7XJYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
+
+</div>
