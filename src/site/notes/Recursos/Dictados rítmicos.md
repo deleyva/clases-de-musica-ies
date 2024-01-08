@@ -39,3 +39,10 @@
 ><div id="paper4"  style="overflow: auto;"></div>
 ><script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper4", "X: 1\nT: Solución dictado rítmico\nM: 4/4\nL: 1/4\nK: perc stafflines = -1\nA2 A2 | z A A A | A2 z A | A A A2 |]"); }); </script>
 
+## 05 - 4/4 Negras, blancas, redondas y silencios
+
+<audio src="https://docs.google.com/uc?export=download&id=1H-SlfGJ5mugDTF7zKKQDtkhJCvMGyI4Q" controls></audio>
+
+> [!TIP]- Solución
+> <div id="paper5"></div>
+> <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper5", `X: 1\nM: 4/4\nL: 1/4\nK: perc stafflines = -1\nA z2 A | A z A A | A A z A | A4 |]`); }); </script> 
