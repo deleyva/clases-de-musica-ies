@@ -27,7 +27,7 @@ Cuadernillo
 
 ## Rhythmic dictation / Dictado rítmico
 
-<audio src="https://docs.google.com/uc?export=download&id=1dpYmlvzXsCaWFdB-iJT0vbJ4LA-58hfr" controls></audio>
+<audio src="https://docs.google.com/uc?export=download&id=1H-SlfGJ5mugDTF7zKKQDtkhJCvMGyI4Q" controls></audio>
 
 > [!TIP]- Solución
 > <div id="paper"></div>
