@@ -27,7 +27,13 @@ Pag 21, ejercicios 24 y 25
 - Acordes.
 
 </div>
+<div class=slide>
 
+## Intonation / Entonación
+
+![../Assets/Pasted image 20240109092018.png](/img/user/Assets/Pasted%20image%2020240109092018.png)
+
+</div>
 <div class=slide>
 
 ## Work with Songs - (Melodía y mano, modos rítmicos) / Trabajo con canciones
@@ -45,11 +51,10 @@ la, sol, fa, fue papá,
 mi, re, do, quien lo cogió.
 
 </div>
+
 <div class=slide>
 
 ## Melodic dictation / Dictado melódico
-
-
 
 > [!TIP]- Solución
 > <div id="paper4"></div>
@@ -60,19 +65,13 @@ mi, re, do, quien lo cogió.
 
 ## Choir / Coro
 
+![../Assets/Pasted image 20240110204342.png](/img/user/Assets/Pasted%20image%2020240110204342.png)
+
 </div>
 <div class=slide>
 
 ## Song / Canción
 
-[titile - author](moises-url) - part
-
-<audio src="https://docs.google.com/uc?export=download&id=ID-DEL-ARCHIVO" controls></audio>
-
-[Letra](url)
+<iframe width="927" height="695" src="https://www.youtube.com/embed/HZs_d9yT2Uw" title="Christell - Dubidubidu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div> 
-
-
-https://www.soundslice.com/
-
