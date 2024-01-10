@@ -38,4 +38,5 @@ img {
 /* Ajustar el margin-top de la clase sidebar a 0 si el título de la página empieza con W + dígito */
 .margin-top-zero {
   margin-top: 0 !important;
+  display: none !important;
 }
