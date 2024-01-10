@@ -15,6 +15,7 @@
   
   .active-slide {
     display: block; /* Mostrar solo el slide activo */
+    margin-left: 3px;
   }
   
   .navigation-buttons {
