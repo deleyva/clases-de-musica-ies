@@ -62,23 +62,56 @@ document.body.appendChild(navButtons);
     }
   }
 
+  document.addEventListener("DOMContentLoaded", function() {
+      // Ocultar filetreeSidebar y asideElement al cargar la página
+      const filetreeSidebar = document.querySelector('nav.filetree-sidebar');
+      const asideElement = document.querySelector('aside');
+
+      if (filetreeSidebar) {
+          filetreeSidebar.style.display = 'none';
+      }
+
+      if (asideElement) {
+          asideElement.style.display = 'none';
+      }
+      const sidebar = document.querySelector('.sidebar');
+      if (sidebar) {
+          sidebar.classList.add('margin-top-zero');
+      }
+  });
+
   // Escuchar las teclas de flecha izquierda y derecha
-    document.addEventListener('keydown', (event) => {
-    if (event.key === 'ArrowLeft') {
-        prevSlide();
-    } else if (event.key === 'ArrowRight') {
-        nextSlide();
+  document.addEventListener('keydown', (event) => {
+      if (event.key === 'ArrowLeft') {
+          prevSlide();
+      } else if (event.key === 'ArrowRight') {
+          nextSlide();
+      } else if (event.key === 'k') {
+          toggleSidebar();
+      }
+  });
+
+document.addEventListener("DOMContentLoaded", function() {
+    const sidebar = document.querySelector('.sidebar');
+    if (sidebar) {
+        sidebar.classList.add('margin-top-zero');
     }
-    });
+});
 
+function toggleSidebar() {
+    const filetreeSidebar = document.querySelector('nav.filetree-sidebar');
+    const asideElement = document.querySelector('aside');
 
-    document.addEventListener("DOMContentLoaded", function() {
-        // Tu código aquí
-        var sidebar = document.querySelector('.sidebar');
-        if (sidebar) {
-            sidebar.classList.add('margin-top-zero');
+    if (filetreeSidebar && asideElement) {
+        if (filetreeSidebar.style.display === 'none' && asideElement.style.display === 'none') {
+            filetreeSidebar.style.display = 'block';
+            asideElement.style.display = 'block';
+        } else {
+            filetreeSidebar.style.display = 'none';
+            asideElement.style.display = 'none';
         }
-    });
+    }
+}
 
 
 
