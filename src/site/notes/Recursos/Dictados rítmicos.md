@@ -46,3 +46,9 @@
 > [!TIP]- Solución
 > <div id="paper5"></div>
 > <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper5", `X: 1\nM: 4/4\nL: 1/4\nK: perc stafflines = -1\nA z2 A | A z A A | A A z A | A4 |]`); }); </script> 
+
+## 06 - 4/4 Negras, blancas, redondas y silencios
+
+> [!TIP]- Solución
+> <div id="paper6"></div>
+> <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper6", `X: 1\nM: 4/4\nL: 1/4\nK: perc stafflines = -1\nA A z A | A z A2 | A2 A A | A A A2 |]`); }); </script>
