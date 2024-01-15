@@ -57,9 +57,25 @@ mi, mi, mi, sol, mi, do, do, re, re, do.
 > ![../Assets/Pasted image 20231028075048.png](/img/user/Assets/Pasted%20image%2020231028075048.png)
 
 </div>
+<div class="slide">
+
+## Choir / Coro
+
+![../Assets/Pasted image 20240110204342.png](/img/user/Assets/Pasted%20image%2020240110204342.png)
+
+</div>
 <div class=slide>
 
 ## Ukelele
+
+### Escala en 3 cuerdas
+
+![../Assets/Pasted image 20231211110831.png](/img/user/Assets/Pasted%20image%2020231211110831.png)
+
+</div>
+<div class=slide>
+
+### El Pinzón
 
 ![../Assets/Pasted image 20231028075048.png](/img/user/Assets/Pasted%20image%2020231028075048.png)
 
@@ -69,5 +85,12 @@ mi, mi, mi, sol, mi, do, do, re, re, do.
 ### Frére Jacques
 
 ![../Assets/Pasted image 20240112131655.png](/img/user/Assets/Pasted%20image%2020240112131655.png)
+
+</div>
+<div class="slide">
+
+### Cuatro primeros acordes
+
+<iframe src="https://www.soundslice.com/slices/dMwYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
 </div>
