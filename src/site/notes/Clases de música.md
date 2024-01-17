@@ -15,6 +15,6 @@ Lo ideal sería que estuvierais tan atentas en clase que no tuvierais que abrir 
 >- Andar por el pasillo mientras marco el compás de 2/4 o 4/4 y me invento un ritmo.
 >- Practicar ordenamientos hasta que me salgan sin pensar.
 >- Tocar con el ukelele las canciones que hemos visto en clase. ¿Si no las recuerdo del todo? Las saco de oído o me invento una melodía... el próximo día las repasaremos en clase.
->- Cantar las canciones que vemos en clase
+>- Cantar las canciones que vemos en clase.
 
 Un abrazo. Espero que lo disfrutes.
