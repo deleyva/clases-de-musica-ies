@@ -65,6 +65,16 @@ mi, mi, mi, sol, mi, do, do, re, re, do.
 > <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper5", `X: 1\nT: Dictado Melódico\nM: 2/4\nL: 1/4\nK: C\nE F|G G|E2 |E2 |D E |F F|E D|C2 |]\n`); }); </script>
 
 </div>
+<div class="slide">
+
+<iframe src="https://www.soundslice.com/slices/hzxYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
+
+</div>
+<div class="slide">
+
+<iframe src="https://www.soundslice.com/slices/HzxYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
+
+</div>
 <div class=slide>
 
 ## Choir / Coro
