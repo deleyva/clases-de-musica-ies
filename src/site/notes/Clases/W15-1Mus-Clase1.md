@@ -20,7 +20,7 @@ Cuadernillo
 
 ## Rhythm / Ritmo
 
-![../Assets/Pasted image 20240107192116.png|undefined](/img/user/Assets/Pasted%20image%2020240107192116.png)
+![../Assets/Pasted image 20240107192116.png](/img/user/Assets/Pasted%20image%2020240107192116.png)
 
 </div>
 <div class=slide> 
@@ -60,8 +60,8 @@ la, sol, fa, fue papá,
 mi, re, do, quien lo cogió.
 
 >[!EXAMPLE]- Más
->![../Assets/Pasted image 20231028074818.png|undefined](/img/user/Assets/Pasted%20image%2020231028074818.png)
->![../Assets/Pasted image 20231028074834.png|undefined](/img/user/Assets/Pasted%20image%2020231028074834.png)
+>![../Assets/Pasted image 20231028074818.png](/img/user/Assets/Pasted%20image%2020231028074818.png)
+>![../Assets/Pasted image 20231028074834.png](/img/user/Assets/Pasted%20image%2020231028074834.png)
 
 </div>
 <div class="slide">
@@ -70,13 +70,13 @@ mi, re, do, quien lo cogió.
 
 ### Sistema CAGFD
 
-![../Assets/Pasted image 20231214101732.png|undefined](/img/user/Assets/Pasted%20image%2020231214101732.png)
+![../Assets/Pasted image 20231214101732.png](/img/user/Assets/Pasted%20image%2020231214101732.png)
 
 </div>
 <div class=slide>
 
 ### Escala en 3 cuerdas
 
-![../Assets/Pasted image 20231211110831.png|undefined](/img/user/Assets/Pasted%20image%2020231211110831.png)
+![../Assets/Pasted image 20231211110831.png](/img/user/Assets/Pasted%20image%2020231211110831.png)
 
 </div>
