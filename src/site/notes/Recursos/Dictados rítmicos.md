@@ -52,3 +52,4 @@
 > [!TIP]- Solución
 > <div id="paper6"></div>
 > <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper6", `X: 1\nM: 4/4\nL: 1/4\nK: perc stafflines = -1\nA A z A | A z A2 | A2 A A | A A A2 |]`); }); </script>
+
