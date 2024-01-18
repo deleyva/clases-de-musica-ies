@@ -60,7 +60,7 @@ $<div class="markdown-embed-title">
 </div>
 <div class=slide>
 
-![../Assets/Pasted image 20231211110831.png|undefined](/img/user/Assets/Pasted%20image%2020231211110831.png)
+![../Assets/Pasted image 20231211110831.png](/img/user/Assets/Pasted%20image%2020231211110831.png)
 
 </div>
 <div class=slide>
@@ -78,8 +78,8 @@ la, sol, fa, fue papá,
 mi, re, do, quien lo cogió.
 
 >[!EXAMPLE]- Más
->![../Assets/Pasted image 20231028074818.png|undefined](/img/user/Assets/Pasted%20image%2020231028074818.png)
->![../Assets/Pasted image 20231028074834.png|undefined](/img/user/Assets/Pasted%20image%2020231028074834.png)
+>![../Assets/Pasted image 20231028074818.png](/img/user/Assets/Pasted%20image%2020231028074818.png)
+>![../Assets/Pasted image 20231028074834.png](/img/user/Assets/Pasted%20image%2020231028074834.png)
 
 </div>
 <div class="slide">
@@ -89,7 +89,7 @@ mi, re, do, quien lo cogió.
 </div>
 <div class="slide">
 
-![../Assets/Pasted image 20231214101732.png|undefined](/img/user/Assets/Pasted%20image%2020231214101732.png)
+![../Assets/Pasted image 20231214101732.png](/img/user/Assets/Pasted%20image%2020231214101732.png)
 
 </div>
 
