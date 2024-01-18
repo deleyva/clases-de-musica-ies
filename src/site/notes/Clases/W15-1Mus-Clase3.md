@@ -75,3 +75,9 @@ mi, re, do, quien lo cogió.
 <iframe width="927" height="695" src="https://www.youtube.com/embed/HZs_d9yT2Uw" title="Christell - Dubidubidu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div> 
+
+
+
+![[../Assets/Recording 20240112100838.webm]]
+
+![[../Assets/Recording 20240112100905.webm]]
