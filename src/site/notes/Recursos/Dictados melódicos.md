@@ -34,8 +34,12 @@
 
 #### 05 - 2/4 Cinco notas
 
-
-
 > [!TIP]- Solución
 > <div id="paper4"></div>
 > <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper4", `X: 1\nT: Dictado Melódico\nM: 2/4\nL: 1/4\nK: C\nG G|F F|E2 |E2 |F F |E E|D D|C2 |]\n`); }); </script>
+
+#### 06 - 2/4 Cinco notas con 3ª
+
+> [!TIP]- Solución
+> <div id="paper5"></div>
+> <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper5", `X: 1\nT: Dictado Melódico\nM: 2/4\nL: 1/4\nK: C\nE F|G G|E2 |E 2|D E |F F|E D|C2 |]\n`); }); </script>
