@@ -15,14 +15,14 @@ corregimos ejercicios
 
 ## Rhythm / Ritmo
 
-![../Assets/Captura de Pantalla 2023-11-24 a las 16.44.03.png|undefined](/img/user/Assets/Captura%20de%20Pantalla%202023-11-24%20a%20las%2016.44.03.png)
+![../Assets/Captura de Pantalla 2023-11-24 a las 16.44.03.png](/img/user/Assets/Captura%20de%20Pantalla%202023-11-24%20a%20las%2016.44.03.png)
 
 </div>
 <div class=slide>
 
 ## Melody / Melodía
 
-![../Assets/Captura de Pantalla 2023-11-22 a las 13.24.52.png|undefined](/img/user/Assets/Captura%20de%20Pantalla%202023-11-22%20a%20las%2013.24.52.png)
+![../Assets/Captura de Pantalla 2023-11-22 a las 13.24.52.png](/img/user/Assets/Captura%20de%20Pantalla%202023-11-22%20a%20las%2013.24.52.png)
 
 </div>
 <div class=slide>
@@ -82,7 +82,7 @@ $<div class="markdown-embed-title">
 </div>
 <div class=slide>
 
-![../Assets/Pasted image 20231128092023.png|undefined](/img/user/Assets/Pasted%20image%2020231128092023.png)
+![../Assets/Pasted image 20231128092023.png](/img/user/Assets/Pasted%20image%2020231128092023.png)
 
 </div>
 <div class=slide>
