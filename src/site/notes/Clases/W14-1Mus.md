@@ -69,14 +69,14 @@ $<div class="markdown-embed-title">
 </div>
 <div class=slide>
 
-![../Assets/Pasted image 20231211110831.png|undefined](/img/user/Assets/Pasted%20image%2020231211110831.png)
+![../Assets/Pasted image 20231211110831.png](/img/user/Assets/Pasted%20image%2020231211110831.png)
 
 </div>
 <div class="slide">
 
 ## Sistema CAGED para ukelele (CAGFD)
 
-![../Assets/Pasted image 20231214101732.png|undefined](/img/user/Assets/Pasted%20image%2020231214101732.png)
+![../Assets/Pasted image 20231214101732.png](/img/user/Assets/Pasted%20image%2020231214101732.png)
 
 </div>
 <div class="slide">
