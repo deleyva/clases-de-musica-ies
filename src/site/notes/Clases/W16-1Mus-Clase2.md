@@ -12,7 +12,7 @@
 <div class=slide>
 
 > [!tldr] Task / Tarea
-> - Ukelele: Frére Jackes, y Mary had a little lamb
+> - Ukelele: Frére Jackes
 
 </div>
 <div class=slide>
@@ -74,13 +74,7 @@ mi, mi, mi, sol, mi, do, do, re, re, do.
 ![../Assets/Pasted image 20240112131655.png](/img/user/Assets/Pasted%20image%2020240112131655.png)
 
 </div>
-<div class="slide">
 
-### Mary had a little lamb
-
-![../Assets/Pasted image 20240112132219.png](/img/user/Assets/Pasted%20image%2020240112132219.png)
-
-</div>
 
 
 
