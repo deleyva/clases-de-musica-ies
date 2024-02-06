@@ -134,3 +134,23 @@ Guiding us all through the night.
 
 When the sun is bright, \
 We can see each other right
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Gigante es
+como un ciprés
+y gordo es
+y fuerte es.
+
+Tiene además
+valor por tres
+es un hombrón
+un gigantón.
+
+>[!EXAMPLE]- Más
+>![../Assets/Pasted image 20240205103916.png](/img/user/Assets/Pasted%20image%2020240205103916.png)
+
+</div></div>
