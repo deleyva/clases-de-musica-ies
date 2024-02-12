@@ -126,6 +126,7 @@ un gigantón.
 
 
 </div>
+<div class="slide">
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -149,7 +150,8 @@ llego a casa, ¡sí señor!
 
 </div></div>
 
- 
+
+</div>
 <div class=slide>
 
 ## Ukelele
@@ -196,8 +198,33 @@ $<div class="markdown-embed-title">
 </div>
 <div class="slide">
 
-[Canciones del blackhistory month](https://studio.moises.ai/setlist/e53b0989-8df5-43a5-9a4b-aa7a5a531768/?reference=playlist_tab)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/recursos/ukelele/#chipi-chipi-chapa-chapa-christell" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# Ukelele
 
 </div>
 
+
+### Chipi chipi chapa chapa - Christell
+
+<iframe src="https://www.soundslice.com/slices/nrpYc/embed-channelpost/?layout=5" width="100%" height="320" frameBorder="0"></iframe>
+
+
+</div></div>
+
+
+</div>
+<div class="slide">
+
+[Lean on me - Bill Withers](https://studio.moises.ai/player2/f35c0506-e760-4e16-8d22-271a3ada8ece/?context=spliter&playlistId=e53b0989-8df5-43a5-9a4b-aa7a5a531768&sections=true)
+
+</div>
+<div class="slide">
+
+[Ed Sheeran - Happier](https://studio.moises.ai/player2/899b1268-b53b-471b-b86d-4a432c789bc0/?context=spliter&lyrics=true)
+
+</div>
 
