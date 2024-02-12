@@ -45,6 +45,7 @@ $<div class="markdown-embed-title">
 > <div id="paper6"></div>
 > <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper6", `X: 1\nT: Dictado Melódico\nM: 2/4\nL: 1/4\nK: C\nG G|F E|F G |E2 |F E |D E|F D|C2 |]\n`); }); </script>
 
+
 </div></div>
 
 
@@ -82,7 +83,8 @@ Ya se aleja, ya se acerca, a la costa va a llegar.
 
 
 
-Gigante es
+
+**Gigante** es
 como un ciprés
 y gordo es
 y fuerte es.
