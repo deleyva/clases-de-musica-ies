@@ -49,3 +49,10 @@
 > [!TIP]- Solución
 > <div id="paper6"></div>
 > <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper6", `X: 1\nT: Dictado Melódico\nM: 2/4\nL: 1/4\nK: C\nG G|F E|F G |E2 |F E |D E|F D|C2 |]\n`); }); </script>
+
+#### 08 -2/4 Cinco notas con 3ª
+
+> [!TIP]- Solución
+> <div id="paper7"></div>
+> <script> document.addEventListener("DOMContentLoaded", function() { window.ABCJS.renderAbc("paper7", `X: 1\nT: Dictado Melódico\nM: 2/4\nL: 1/4\nK: C\nG F|G F|G F |E2 |D E |F G|E D|C2 |]\n`); }); </script>
+
