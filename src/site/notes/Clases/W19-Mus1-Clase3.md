@@ -79,7 +79,8 @@ $<div class="markdown-embed-title">
 </div>
 
 
-Gigante es
+
+**Gigante** es
 como un ciprés
 y gordo es
 y fuerte es.
