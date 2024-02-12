@@ -140,7 +140,8 @@ We can see each other right
 
 
 
-Gigante es
+
+**Gigante** es
 como un ciprés
 y gordo es
 y fuerte es.
