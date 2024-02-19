@@ -23,7 +23,6 @@
 > - Pag 44, ejercicios 8, 9 y 10
 
 </div>
- 
 <div class=slide>
 
 ## Rhythm / Ritmo
