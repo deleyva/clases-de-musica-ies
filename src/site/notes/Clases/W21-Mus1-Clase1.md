@@ -85,6 +85,37 @@ llevaba un gran tazón.
 
 ## Ukelele
 
-Black History Month
+### Oh When the Saints go Marching in
+
+![../Assets/Pasted image 20240219104255.png](/img/user/Assets/Pasted%20image%2020240219104255.png)
+
+</div>
+<div class="slide">
+
+### Frère Jaques
+
+![../Assets/Pasted image 20240219104446.png](/img/user/Assets/Pasted%20image%2020240219104446.png)
+
+</div>
+<div class="slide">
+
+[Black History Month](https://studio.moises.ai/library/)
+
+</div>
+<div class="slide">
+
+## Chipi chipi, chapa chapa - Christell
+
+![../Assets/Pasted image 20240219104620.png](/img/user/Assets/Pasted%20image%2020240219104620.png)
+
+</div>
+<div class="slide">
+
+![../Assets/Pasted image 20240219104741.png](/img/user/Assets/Pasted%20image%2020240219104741.png)
+
+</div>
+<div class="slide">
+
+![../Assets/Pasted image 20240219104800.png](/img/user/Assets/Pasted%20image%2020240219104800.png)
 
 </div>
