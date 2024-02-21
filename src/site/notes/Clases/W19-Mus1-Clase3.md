@@ -126,7 +126,7 @@ $<div class="markdown-embed-title">
 
 $<div class="markdown-embed-title">
 
-# Do,re,mi,fa,sol
+# Do, re, mi, fa, sol
 
 </div>
 
