@@ -17,3 +17,14 @@
 ![../Assets/Pasted image 20240215130138.png](/img/user/Assets/Pasted%20image%2020240215130138.png)
 
 </div>
+<div class="slide">
+
+## Planificar a largo plazo quiénes queremos ser
+
+- Registro diario
+- Registro de hábitos
+- Registro semanal
+- Registro mensual
+- Registro anual
+
+</div>
