@@ -47,7 +47,7 @@
 
 ### La ola - 2ª Mayor y 2ª menor
 
-### El gigante - 3ª Mayor
+### El gigante - 3ª menor
 
 ### Dando saltos de 3ª - 3ª Mayor
 
@@ -65,6 +65,11 @@ Había una pastora,
 que sí, que no, que lo digo yo,
 había una pastora,
 llevaba un gran tazón.
+
+Con leche de las cabras,
+que sí, que no, que lo digo yo,
+con leche de las cabras,
+y tierno requesón.
 
 ![../Assets/Pasted image 20240216132331.png](/img/user/Assets/Pasted%20image%2020240216132331.png)
 
