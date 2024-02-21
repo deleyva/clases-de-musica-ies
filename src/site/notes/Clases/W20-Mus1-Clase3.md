@@ -188,7 +188,15 @@ $<div class="markdown-embed-title">
 
 ## Canciones Black History Month
 
-- 
+- This little light of mine.
+
+- Three Little Birds - Bob Marley
+
+- Lean on me - Bill Withers
+
+- Hit the road Jack - Percy Mayfield
+
+- When the Saints Go Marching In
 
 </div>
 
