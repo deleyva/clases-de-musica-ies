@@ -25,13 +25,13 @@ Persona Moderadora (2)
 Persona a la que le molesta la diversidad sexual (2)
 Persona que trata de aportar argumentos (2)
 
-Columistas ()
-Dibujantes de tiras cómicas
+Columistas (voluntarios)
+Dibujantes de tiras cómicas (voluntarios)
 
 </div>
 <div class="slide">
 
-## Lluvia de ideas de información
+## Lluvia de ideas/información
 
 </div>
 
