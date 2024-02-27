@@ -73,9 +73,9 @@ me pregunto qué serás.
 
 ## Interval test / Test de intervalos
 
-[[Recursos/Dictados rítmicos\|Dictados rítmicos]]
-[[Recursos/Dictados melódicos\|Dictados melódicos]]
-[[Recursos/Tests audiométricos\|Tests audiométricos]]
+| 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| __  | __  | __  | __  | __  | __  | __  | __  | __  | __  | 
 
 </div>
 <div class=slide>
