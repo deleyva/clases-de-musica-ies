@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/recursos/tests-de-teoria/"}
 ---
 
-****---
-dg-publish: true
----
+
 ## English
 
 ### Unit 1
