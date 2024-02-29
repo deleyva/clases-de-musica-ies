@@ -610,3 +610,242 @@ $<div class="markdown-embed-title">
     c) **El volumen o la fuerza del sonido.**
     d) El tono o la inflexión de la voz.
 
+### Unidad 4
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# Preguntas test
+
+</div>
+
+
+### Unidad 4 - Timbre
+
+#### Test
+
+1. ¿Qué es el timbre en la música?
+   - A) La duración de un sonido
+   - B) El volumen de un sonido
+   - C) El ritmo de un sonido
+   - D) **La calidad del sonido que permite identificar el instrumento o la voz**
+
+2. ¿Cómo se clasifica la voz humana en términos de timbre?
+   - A) Por su intensidad
+   - B) Por la edad de la persona
+   - C) **Por sus características únicas**
+   - D) Por el idioma hablado
+
+3. ¿Cuál es el papel de la respiración en la producción de la voz?
+   - A) Proporciona ritmo al habla
+   - B) Crea diferentes acentos
+   - C) **Controla la inhalación y exhalación para la técnica vocal**
+   - D) Cambia el idioma que se habla
+
+4. ¿Cómo afectan las cuerdas vocales a la producción de la voz?
+   - A) Determinan el idioma utilizado
+   - B) Modifican el ritmo del habla
+   - C) **Vibran para producir sonido, influenciadas por la presión del aire y la tensión**
+   - D) Son irrelevantes para la producción de la voz
+
+5. ¿Qué son los resonadores en el cuerpo humano?
+   - A) Órganos que producen el habla
+   - B) **Estructuras que amplifican y refuerzan el sonido**
+   - C) Partes que controlan la respiración
+   - D) Elementos que determinan el idioma
+
+6. ¿Qué efecto tiene el consumo de tabaco en el tono de voz?
+   - A) Hace la voz más suave
+   - B) No tiene efecto
+   - C) **Puede profundizar la voz, especialmente en mujeres**
+   - D) Aumenta la claridad de la voz
+
+7. ¿Cómo se clasifican las voces según su rango?
+   - A) Por edad y género
+   - B) Por idioma y acento
+   - C) **Por el conjunto de notas que pueden cantar**
+   - D) Por su volumen
+
+8. ¿Qué caracteriza a una voz de soprano?
+   - A) Es el tipo de voz más fuerte
+   - B) **Es la voz femenina más alta**
+   - C) Es un tipo de voz masculina
+   - D) Es la voz femenina más baja
+
+9. ¿Cómo afecta el aspecto físico de un instrumento a su timbre?
+   - A) Cambia el volumen del instrumento
+   - B) **Influye en el tono de los sonidos que produce**
+   - C) Determina la durabilidad del instrumento
+   - D) Altera las posibilidades rítmicas del instrumento
+
+10. ¿Cuál es la diferencia entre los instrumentos de percusión de tono definido e indefinido?
+    - A) Su tamaño y peso
+    - B) El material del que están hechos
+    - C) **Los instrumentos de tono definido producen notas específicas, mientras que los de tono indefinido no**
+    - D) Su uso en composiciones musicales
+
+
+</div></div>
+
+
+### Unidad 5
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# Preguntas test
+
+</div>
+
+
+### Unidad 5 - Duración
+
+#### Test
+
+1. ¿Cuál es la cualidad del sonido que permite distinguir entre sonidos largos y cortos?
+   - A) Tono
+   - B) Volumen
+   - C) **Duración**
+   - D) Timbre
+
+2. En la música, ¿qué indica la presencia conjunta de sonido y silencio?
+   - A) Un cambio en el ritmo
+   - B) **Duraciones específicas para cada uno**
+   - C) Un cambio en el tono
+   - D) Un cambio en el volumen
+
+3. ¿Cómo responden las neuronas a sonidos de diferentes duraciones?
+   - A) Cambiando de color
+   - B) **Respondiendo selectivamente a ciertas longitudes**
+   - C) Moviendo más rápido
+   - D) Generando calor
+
+4. ¿Cuáles son las tres partes de una nota musical?
+   - A) Ritmo, tono y duración
+   - B) **Cabeza o cabeza de la nota, plica y corchete**
+   - C) Longitud, anchura y altura
+   - D) Frecuencia, amplitud y fase
+
+5. ¿Cómo se escriben las colas de las notas musicales en un pentagrama?
+   - A) Siempre hacia arriba
+   - B) Siempre hacia abajo
+   - C) **Hacia abajo desde el tercer espacio, y hacia arriba o abajo en la tercera línea**
+   - D) Basado en el tono de la nota
+
+6. ¿Cuál es la función de los silencios en la notación musical?
+   - A) Indicar el final de una pieza
+   - B) Marcar el inicio de una canción
+   - C) **Representar períodos de silencio**
+   - D) Cambiar el tempo
+
+7. ¿Cómo se determina la duración de las notas musicales y los silencios en relación unos con otros?
+   - A) Aleatoriamente
+   - B) Basado en la armadura de clave
+   - C) **Cada nota o silencio equivale a la mitad del símbolo anterior y al doble del siguiente**
+   - D) Según la preferencia del compositor
+
+8. ¿Qué indica el signo de repetición final en la música?
+   - A) El final de la composición
+   - B) **Que una sección de la partitura debe repetirse**
+   - C) Un cambio en el ritmo
+   - D) Un aumento en el volumen
+
+9. ¿Cómo se relaciona el código Morse con la duración musical?
+   - A) Usa notas musicales
+   - B) No tiene relación
+   - C) **Se basa en sonidos largos y cortos**
+   - D) Cambia el tono
+
+10. ¿Qué significa la doble barra final en una composición musical?
+    - A) Una sección de repetición
+    - B) Un cambio en el tempo
+    - C) **El final de la composición**
+    - D) Un cambio de tonalidad
+
+
+</div></div>
+
+
+### Unidad 6
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# Preguntas test
+
+</div>
+
+
+### Unidad 6 - Las cualidades del sonido
+
+#### Test
+
+1. ¿Cómo utilizan los compositores la intensidad del sonido?
+   - A) Para expresar diferentes sensaciones
+   - B) Para cambiar la melodía
+   - C) **Para crear "imágenes sonoras" o sensaciones en el oyente**
+   - D) Para determinar la duración de un sonido
+
+2. ¿Qué sensación sugiere un sonido en crescendo (que aumenta gradualmente en intensidad)?
+   - A) Relajación
+   - B) **Poder creciente o tensión**
+   - C) Monotonía
+   - D) Serenidad
+
+3. ¿Qué cualidad del sonido nos permite distinguir entre sonidos largos y cortos?
+   - A) Tono
+   - B) Timbre
+   - C) **Duración**
+   - D) Intensidad
+
+4. ¿Qué sensación sugieren los sonidos rotos (breves o fragmentados)?
+   - A) Estabilidad
+   - B) **Inestabilidad o expectativa**
+   - C) Monotonía
+   - D) Energía
+
+5. ¿Qué describe el tono de un sonido?
+   - A) Su duración
+   - B) Su volumen
+   - C) **Si es alto o bajo en frecuencia**
+   - D) Su intensidad
+
+6. ¿Qué sensación sugieren los sonidos agudos?
+   - A) Calma
+   - B) **Excitación o estimulación**
+   - C) Solemnidad
+   - D) Ansiedad
+
+7. ¿Cómo se puede definir el timbre en la música?
+   - A) Como la longitud de un sonido
+   - B) **Como la cualidad que permite identificar una voz o un instrumento**
+   - C) Como la intensidad de un sonido
+   - D) Como el ritmo de un sonido
+
+8. ¿Qué sensación generalmente sugieren los instrumentos de viento-madera?
+   - A) Energía
+   - B) **Calidez o claridad**
+   - C) Solemnidad
+   - D) Desorden
+
+9. ¿Cuál es el papel de los instrumentos electrónicos en la música?
+   - A) Mantener sonidos tradicionales
+   - B) Reducir el volumen
+   - C) **Crear sensaciones de lo exótico o sorprendente**
+   - D) Replicar instrumentos acústicos
+
+10. ¿Cuál es el objetivo de la música descriptiva o programática?
+    - A) Mantener un ritmo constante
+    - B) Enfocarse únicamente en la melodía
+    - C) **Recrear ciertos efectos o escenas usando sonidos**
+    - D) Enfatizar la armonía
+
+
+</div></div>
+
