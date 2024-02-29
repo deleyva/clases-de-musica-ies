@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/recursos/tests-de-teoria/"}
 ---
 
+****---
+dg-publish: true
+---
 ## English
 
 ### Unit 1
@@ -189,6 +192,234 @@
     b) The speed of speech.
     c) **The volume or force of the sound.**
     d) The tone or inflection of the voice.
+
+### Unit 4
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# Preguntas test
+
+</div>
+
+
+#### Unit 4 English Test
+
+1. What is timbre in music?
+   - A) The duration of a sound
+   - B) The volume of a sound
+   - C) The rhythm of a sound
+   - D) **The quality of sound that allows identification of the instrument or voice**
+
+2. How is the human voice classified in terms of timbre?
+   - A) By its loudness
+   - B) By the age of the person
+   - C) **By its unique characteristics**
+   - D) By the language spoken
+
+3. What is the role of breathing in voice production?
+   - A) It provides rhythm to speech
+   - B) It creates different accents
+   - C) **It controls inhalation and exhalation for vocal technique**
+   - D) It changes the language being spoken
+
+4. How do vocal cords affect voice production?
+   - A) They determine the language used
+   - B) They modify the rhythm of speech
+   - C) **They vibrate to produce sound, influenced by air pressure and tension**
+   - D) They are irrelevant to voice production
+
+5. What are resonators in the human body?
+   - A) Organs that produce speech
+   - B) **Structures that amplify and strengthen sound**
+   - C) Parts that control breathing
+   - D) Elements that determine language
+
+6. What effect does tobacco consumption have on voice tone?
+   - A) It makes the voice softer
+   - B) It has no effect
+   - C) **It can deepen the voice, especially in women**
+   - D) It increases voice clarity
+
+7. How are voices classified according to their range?
+   - A) By age and gender
+   - B) By language and accent
+   - C) **By the set of notes they can sing**
+   - D) By their volume
+
+8. What characterizes a soprano voice?
+   - A) It is the loudest voice type
+   - B) **It is the highest female voice**
+   - C) It is a male voice type
+   - D) It is the lowest female voice
+
+9. How does the physical aspect of an instrument affect its timbre?
+   - A) It changes the instrument's volume
+   - B) **It influences the pitch of the sounds it produces**
+   - C) It determines the instrument's durability
+   - D) It alters the rhythm possibilities of the instrument
+
+10. What is the difference between definite and indefinite pitch percussion instruments?
+    - A) Their size and weight
+    - B) The material they are made from
+    - C) **Definite pitch instruments produce specific notes, while indefinite pitch instruments do not**
+    - D) Their use in musical compositions
+
+
+</div></div>
+
+
+### Unit 5
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# Preguntas test
+
+</div>
+
+
+#### Unit 5 English Test
+
+1. What is the quality of sound that enables you to distinguish between long and short sounds?
+   - A) Pitch
+   - B) Volume
+   - C) **Duration**
+   - D) Timbre
+
+2. In music, what does the presence of sound and silence together indicate?
+   - A) A change in rhythm
+   - B) **Specific durations for each**
+   - C) A shift in pitch
+   - D) A change in volume
+
+3. How do neurons respond to sounds of different durations?
+   - A) By changing their color
+   - B) **By selectively responding to certain lengths**
+   - C) By moving faster
+   - D) By generating heat
+
+4. What are the three parts of a musical note?
+   - A) Rhythm, pitch, and duration
+   - B) **Head or notehead, stem, and flag**
+   - C) Length, width, and height
+   - D) Frequency, amplitude, and phase
+
+5. How are the tails of musical notes written on a staff?
+   - A) Always upwards
+   - B) Always downwards
+   - C) **Downwards from the 3rd space, and up or down on the 3rd line**
+   - D) Based on the pitch of the note
+
+6. What is the role of rests in musical notation?
+   - A) To indicate the end of a piece
+   - B) To mark the beginning of a song
+   - C) **To represent periods of silence**
+   - D) To change the tempo
+
+7. How is the duration of musical notes and rests determined in relation to each other?
+   - A) Randomly
+   - B) Based on the key signature
+   - C) **Each note or rest equals half the preceding symbol and double the next symbol**
+   - D) By the composer's preference
+
+8. What does the end repeat sign in music indicate?
+   - A) The end of the composition
+   - B) **A section of the score should be repeated**
+   - C) A change in rhythm
+   - D) An increase in volume
+
+9. How is Morse code related to musical duration?
+   - A) It uses musical notes
+   - B) It has no relation
+   - C) **It is based on long and short sounds**
+   - D) It changes pitch
+
+10. What does the final double bar-line signify in a musical composition?
+    - A) A repeat section
+    - B) A change in tempo
+    - C) **The end of the composition**
+    - D) A key change
+
+
+</div></div>
+
+
+### Unit 6
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+#### Unit 6 English Test
+
+1. How do composers use the intensity of sound?
+   - A) To express different sensations
+   - B) To change the melody
+   - C) **To create "sound images" or sensations in the listener**
+   - D) To determine the duration of a sound
+
+2. What sensation does a crescendo sound (increasing gradually in intensity) suggest?
+   - A) Relaxation
+   - B) **Growing power or tension**
+   - C) Monotony
+   - D) Serenity
+
+3. Which quality of sound enables us to distinguish between long and short sounds?
+   - A) Pitch
+   - B) Timbre
+   - C) **Duration**
+   - D) Intensity
+
+4. What sensation do broken sounds (brief or fragmented) suggest?
+   - A) Stability
+   - B) **Instability or expectation**
+   - C) Monotony
+   - D) Energy
+
+5. What does the pitch of a sound describe?
+   - A) Its duration
+   - B) Its volume
+   - C) **Whether it is high or low in frequency**
+   - D) Its intensity
+
+6. What sensation do sharp sounds suggest?
+   - A) Calm
+   - B) **Excitement or stimulation**
+   - C) Solemnity
+   - D) Anxiety
+
+7. How can timbre be defined in music?
+   - A) As the length of a sound
+   - B) **As the quality that allows identification of a voice or instrument**
+   - C) As the loudness of a sound
+   - D) As the rhythm of a sound
+
+8. What sensation do woodwind instruments generally suggest?
+   - A) Energy
+   - B) **Warmth or clarity**
+   - C) Solemnity
+   - D) Disorder
+
+9. What is the role of electronic instruments in music?
+   - A) To maintain traditional sounds
+   - B) To reduce the volume
+   - C) **To create sensations of the exotic or surprising**
+   - D) To replicate acoustic instruments
+
+10. What does descriptive or programme music aim to do?
+    - A) To maintain a consistent rhythm
+    - B) To focus solely on melody
+    - C) **To recreate certain effects or scenes using sounds**
+    - D) To emphasize the harmony
+
+
+</div></div>
 
 
 ## Español
