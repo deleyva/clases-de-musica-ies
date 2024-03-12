@@ -52,6 +52,20 @@ $<div class="markdown-embed-title">
 </div>
 <div class="slide">
 
+### Escalas en cada cuerda
+
+<iframe src="https://www.soundslice.com/slices/LDwYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
+
+</div>
+<div class="slide">
+
+### Escala mayor en 3 cuerdas
+
+<iframe src="https://www.soundslice.com/slices/HzxYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
+
+</div>
+<div class="slide">
+
 ![../Assets/Pasted image 20240226105819.png](/img/user/Assets/Pasted%20image%2020240226105819.png)
 
 </div>
