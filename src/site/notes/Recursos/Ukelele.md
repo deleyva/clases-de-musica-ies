@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/recursos/ukelele/"}
 ---
 
-## Afinando mi ukelele
+### Afinando mi ukelele
 
 https://www.ukeaula.com/general-5
 
@@ -63,3 +63,9 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 ### Chipi chipi chapa chapa - Christell
 
 <iframe src="https://www.soundslice.com/slices/nrpYc/embed-channelpost/?layout=5" width="100%" height="320" frameBorder="0"></iframe>
+
+
+### 4 primeros acordes
+
+![../Assets/Pasted image 20240318101754.png](/img/user/Assets/Pasted%20image%2020240318101754.png)
+
