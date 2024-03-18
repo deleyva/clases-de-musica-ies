@@ -147,3 +147,11 @@ $<div class="markdown-embed-title">
 ![../Assets/Pasted image 20240219104446.png](/img/user/Assets/Pasted%20image%2020240219104446.png)
 
 </div>
+<div class="slide">
+
+## Tests para examen
+
+### Inglés: [unit 4](https://quizizz.com/embed/quiz/65d886e0776be6378c9ab779), [unit 5](https://quizizz.com/embed/quiz/65d88e3b1fb220d789029081) and [unit 6](https://quizizz.com/embed/quiz/65dc53c43175893587a2a7fa)
+### Español: [unidad 4](https://quizizz.com/embed/quiz/65dc55e3ec8b291030b4ab4a), [unidad 5](https://quizizz.com/embed/quiz/65dc5c75e6e6d38ab207a71f) y [unidad 6](https://quizizz.com/embed/quiz/65dc5dfad3ed363efdb23882)
+
+</div>
