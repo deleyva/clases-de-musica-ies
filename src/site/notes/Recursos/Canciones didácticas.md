@@ -107,6 +107,14 @@ mi, re, do, quien lo cogió.
 >![../Assets/Pasted image 20231028074818.png](/img/user/Assets/Pasted%20image%2020231028074818.png)
 >![../Assets/Pasted image 20231028074834.png](/img/user/Assets/Pasted%20image%2020231028074834.png)
 
+### Salta, gira
+
+Salta, gira dale a la cuerda,
+salta, gira y vuelve a empezar.
+
+>[!EXAMPLE]- Más
+>![../Assets/Pasted image 20240318100519.png](/img/user/Assets/Pasted%20image%2020240318100519.png)
+
 ### El pinzón
 
 Canta el pinzón, las notas que le silbo,
