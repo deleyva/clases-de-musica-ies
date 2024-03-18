@@ -25,7 +25,16 @@ https://www.blinklearning.com/v/1709045381/theme_tmpux/launch.php?theme=tmpux#ac
 </div>
 <div class=slide>
 
+## Rhythm / Ritmo
 
+![../Assets/Pasted image 20240226110514.png](/img/user/Assets/Pasted%20image%2020240226110514.png)
+
+</div>
+<div class=slide>
+
+## Intonation / Entonación
+
+![../Assets/Pasted image 20240226210816.png](/img/user/Assets/Pasted%20image%2020240226210816.png)
 
 </div>
 <div class=slide>
@@ -110,11 +119,6 @@ $<div class="markdown-embed-title">
 
 
 </div></div>
-
-
-</div>
-<div class="slide">
-
 
 
 </div>
