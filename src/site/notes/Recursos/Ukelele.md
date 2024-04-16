@@ -69,3 +69,14 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 
 ![../Assets/Pasted image 20240318101754.png](/img/user/Assets/Pasted%20image%2020240318101754.png)
 
+### Acordes mayores. Fundamental en 3ª cuerda
+
+![../Assets/Pasted image 20240415101250.png](/img/user/Assets/Pasted%20image%2020240415101250.png)  |  ![../Assets/Pasted image 20240415101320.png](/img/user/Assets/Pasted%20image%2020240415101320.png)
+
+### Escala mayor. Fundamental en 3ª cuerda
+
+![../Assets/Pasted image 20240415102227.png](/img/user/Assets/Pasted%20image%2020240415102227.png)
+
+### Escala pentatónica. Mayor y menor. 1ª posición
+
+[![../Assets/Pasted image 20240415105053.png](/img/user/Assets/Pasted%20image%2020240415105053.png)](https://www.soundslice.com/slices/Rrglc/)
