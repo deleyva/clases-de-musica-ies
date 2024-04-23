@@ -17,7 +17,7 @@
 
 ![../Assets/Pasted image 20240324122033.png](/img/user/Assets/Pasted%20image%2020240324122033.png)
 
-</div>
+	</div>
 <div class=slide>
 
 ![../Assets/Pasted image 20240324122043.png](/img/user/Assets/Pasted%20image%2020240324122043.png)
@@ -66,7 +66,6 @@ $<div class="markdown-embed-title">
 ### 4 primeros acordes
 
 ![../Assets/Pasted image 20240318101754.png](/img/user/Assets/Pasted%20image%2020240318101754.png)
-
 
 
 </div></div>
