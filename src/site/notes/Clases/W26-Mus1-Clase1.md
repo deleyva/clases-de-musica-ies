@@ -64,7 +64,6 @@ $<div class="markdown-embed-title">
 ![../Assets/Pasted image 20240318101754.png](/img/user/Assets/Pasted%20image%2020240318101754.png)
 
 
-
 </div></div>
 
 
@@ -102,5 +101,3 @@ $<div class="markdown-embed-title">
 https://www.soundslice.com/slices/nrpYc/edit/
 
 </div>
-
-
