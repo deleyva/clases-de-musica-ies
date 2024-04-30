@@ -77,23 +77,24 @@ $<div class="markdown-embed-title">
 </div>
 <div class="slide">
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/recursos/ukelele/#acordes-mayores-fundamental-en-3-cuerda" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-$<div class="markdown-embed-title">
-
-# Ukelele
+![../Assets/Pasted image 20240430110742.png](/img/user/Assets/Pasted%20image%2020240430110742.png)
 
 </div>
+<div class="slide">
 
+![../Assets/Pasted image 20240430110756.png](/img/user/Assets/Pasted%20image%2020240430110756.png)
 
-### Acordes mayores. Fundamental en 3ª cuerda
+</div>
+<div class="slide">
 
-![../Assets/Pasted image 20240415101250.png](/img/user/Assets/Pasted%20image%2020240415101250.png)  |  ![../Assets/Pasted image 20240415101320.png](/img/user/Assets/Pasted%20image%2020240415101320.png)
+## Acordes mayores con fundamental en 3ª cuerda
 
+![../Assets/Pasted image 20240430110705.png](/img/user/Assets/Pasted%20image%2020240430110705.png)
 
-</div></div>
+</div>
+<div class="slide">
 
+![../Assets/Pasted image 20240430110724.png](/img/user/Assets/Pasted%20image%2020240430110724.png)
 
 </div>
 <div class="slide">
@@ -108,7 +109,7 @@ $<div class="markdown-embed-title">
 </div>
 <div class="slide">
 
-## "La flaca" - Jarabe de Palo
+## ["La flaca" - Jarabe de Palo](https://tabs.ultimate-guitar.com/tab/jarabe-de-palo/la-flaca-chords-1768743)
 
 ![../Assets/Pasted image 20240415110649.png](/img/user/Assets/Pasted%20image%2020240415110649.png)
 
