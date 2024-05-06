@@ -5,6 +5,11 @@
 
 <div class="slide">
 
+## [Pág. 76](https://www.blinklearning.com/v/1714044658/theme_tmpux/launch.php?theme=tmpux#activity/4239478/65132334/421303522)
+
+</div>
+<div class="slide">
+
 ![../Assets/Pasted image 20240506110056.png](/img/user/Assets/Pasted%20image%2020240506110056.png)
 
 </div>
