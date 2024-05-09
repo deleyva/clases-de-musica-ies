@@ -3,12 +3,12 @@
 ---
 
 
-<div class=slide>
+<div class=slide>[]()
 
 ## [PAG 66](https://www.blinklearning.com/v/1711020656/themes/tmpux/launch.php?theme=tmpux#activity/4239478/65132330/421303518) - Ejercicios 1, 2 y 3
 
 </div>
-<div class="slide">****
+<div class="slide">
 
 ## Examen: día 6/7 de Junio
 
