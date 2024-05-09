@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/clases-ukelele-profes/w4-ukelele/"}
 ---
 
+
 <div class="slide">
 
 ![../Assets/photo_2024-04-15 11.01.47.jpeg](/img/user/Assets/photo_2024-04-15%2011.01.47.jpeg)
