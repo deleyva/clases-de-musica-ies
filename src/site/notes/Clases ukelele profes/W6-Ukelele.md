@@ -58,6 +58,16 @@
 
 ----m
 
-## "Riptide" - Van Joy
+## ["Riptide" - Van Joy](https://tabs.ultimate-guitar.com/tab/vance-joy/riptide-chords-1173278)
+
+![../Assets/Pasted image 20240512210531.png](/img/user/Assets/Pasted%20image%2020240512210531.png)
+
+----m
+
+![../Assets/Pasted image 20240512210614.png](/img/user/Assets/Pasted%20image%2020240512210614.png)
+
+----m
+
+![../Assets/Pasted image 20240512210648.png](/img/user/Assets/Pasted%20image%2020240512210648.png)
 
 ----e
