@@ -21,12 +21,43 @@
 
 ----m
 
-![../Assets/Pasted image 20240430110705.png](/img/user/Assets/Pasted%20image%2020240430110705.png)
-
-----m
 
 ## Acordes mayores con fundamental en 3ª cuerda
 
 ![../Assets/Pasted image 20240430110705.png](/img/user/Assets/Pasted%20image%2020240430110705.png)
+
+----m
+
+![../Assets/Pasted image 20240430110724.png](/img/user/Assets/Pasted%20image%2020240430110724.png)
+
+
+----m
+
+## Escalas menores con fundamental en 3ª cuerda
+
+![../Assets/Pasted image 20240512205636.png](/img/user/Assets/Pasted%20image%2020240512205636.png)
+
+----m
+
+## Acordes menores con fundamental en 3ª cuerda
+
+![../Assets/Pasted image 20240512205800.png](/img/user/Assets/Pasted%20image%2020240512205800.png)
+
+----m
+
+## Acorde de E7
+
+![../Assets/Pasted image 20240415110649.png](/img/user/Assets/Pasted%20image%2020240415110649.png)
+
+
+----m
+
+## "La flaca" - Jarabe de Palo
+
+![../Assets/Pasted image 20240507103506.png](/img/user/Assets/Pasted%20image%2020240507103506.png)
+
+----m
+
+## "Riptide" - Van Joy
 
 ----e
