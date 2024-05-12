@@ -7,15 +7,15 @@
 
 ## [Pág. 80](https://www.blinklearning.com/v/1714044658/theme_tmpux/launch.php?theme=tmpux#activity/4239478/65132334/421303522)
 
-----
+-----
 
 ![../Assets/Pasted image 20240509100149.png](/img/user/Assets/Pasted%20image%2020240509100149.png)
 
-----
+-----
 
 ![../Assets/Pasted image 20240415100511.png](/img/user/Assets/Pasted%20image%2020240415100511.png)
 
-____
+-----
 
 ![../Assets/Pasted image 20240506110533.png](/img/user/Assets/Pasted%20image%2020240506110533.png)
 
