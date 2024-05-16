@@ -29,16 +29,14 @@ div[id^="paper"] {
   overflow: auto !important;
 }
 
-/* Imágenes ocupando todo el ancho o alto de la pantalla, sin distorsión */
 img {
-  max-width: 100vw; /* Limitar el ancho máximo de la imagen al ancho de la ventana */
-  max-height: 100vh; /* Limitar la altura máxima de la imagen a la altura de la ventana */
-  width: auto; /* Ajustar el ancho automáticamente para mantener la proporción */
-  height: auto; /* Ajustar la altura automáticamente para mantener la proporción */
+  width: 100%; /* Ancho total del contenedor */
+  height: 100%; /* Alto total del contenedor */
+  object-fit: contain; /* Ajusta la imagen para que quepa completamente en el contenedor sin distorsionarse */
+  object-position: center; /* Centra la imagen dentro del contenedor */
   padding: 2px;
   display: block; /* Asegurarse de que las imágenes se comporten como elementos de bloque */
-  margin-left: auto; /* Centrar la imagen horizontalmente */
-  margin-right: auto; /* Centrar la imagen horizontalmente */
+  margin: 0; /* Elimina los márgenes para aprovechar todo el espacio */
 }
 
 /* Ajustar el margin-top de la clase sidebar a 0 si el título de la página empieza con W + dígito */
