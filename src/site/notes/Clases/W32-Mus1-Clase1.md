@@ -309,7 +309,7 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 
 ### [Someone like you - Adele](https://tabs.ultimate-guitar.com/tab/adele/someone-like-you-chords-1006751)
 
-
+### [Karma - Jojo Siwa](https://tabs.ultimate-guitar.com/tab/jojo-siwa/karma-chords-5214630)
 
 </div></div>
 
@@ -449,7 +449,7 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 
 ### [Someone like you - Adele](https://tabs.ultimate-guitar.com/tab/adele/someone-like-you-chords-1006751)
 
-
+### [Karma - Jojo Siwa](https://tabs.ultimate-guitar.com/tab/jojo-siwa/karma-chords-5214630)
 
 </div></div>
 
