@@ -60,11 +60,6 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 
 <iframe src="https://www.soundslice.com/slices/TCFYc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe>
 
-### Chipi chipi chapa chapa - Christell
-
-<iframe src="https://www.soundslice.com/slices/nrpYc/embed-channelpost/?layout=5" width="100%" height="320" frameBorder="0"></iframe>
-
-
 ### 4 primeros acordes
 
 ![../Assets/Pasted image 20240318101754.png](/img/user/Assets/Pasted%20image%2020240318101754.png)
@@ -80,3 +75,57 @@ O con la app GuitarTuna ([Android](https://play.google.com/store/apps/details?id
 ### Escala pentatónica. Mayor y menor. 1ª posición
 
 [![../Assets/Pasted image 20240415105053.png](/img/user/Assets/Pasted%20image%2020240415105053.png)](https://www.soundslice.com/slices/Rrglc/)
+
+## Estudio por relatividad
+
+### Escala mayor con fundamental en 3ª cuerda
+
+![../Assets/Pasted image 20240430110756.png](/img/user/Assets/Pasted%20image%2020240430110756.png)
+
+### Acordes mayores con fundamental en 3ª cuerda (duplicando fundamental)
+
+![../Assets/Pasted image 20240430110705.png](/img/user/Assets/Pasted%20image%2020240430110705.png)
+
+### Acordes mayores con fundamental en 3ª cuerda (duplicando la 5ª)
+
+![../Assets/Pasted image 20240430110724.png](/img/user/Assets/Pasted%20image%2020240430110724.png)
+
+### Acordes menores con fundamental en 3ª cuerda (duplicando la 5ª)
+
+![../Assets/Pasted image 20240512194102.png](/img/user/Assets/Pasted%20image%2020240512194102.png)
+
+### Escalas menores con fundamental en 3ª cuerda
+
+![../Assets/Pasted image 20240512194242.png](/img/user/Assets/Pasted%20image%2020240512194242.png)
+
+### Escala pentatónica
+
+
+### Acordes mayores con fundamental en 4ª cuerda
+
+![../Assets/Pasted image 20240520103402.png](/img/user/Assets/Pasted%20image%2020240520103402.png)
+
+### Acordes mayores con séptima con fundamental en 2º cuerda
+
+![../Assets/Pasted image 20240520104331.png](/img/user/Assets/Pasted%20image%2020240520104331.png)
+
+### Acordes menores con fundamental en 4ª cuerda
+
+![../Assets/Pasted image 20240520103342.png](/img/user/Assets/Pasted%20image%2020240520103342.png)
+
+## Patrones rítmicos
+
+
+## Canciones
+
+### [Chipi chipi chapa chapa - Christell](https://tabs.ultimate-guitar.com/user/tab/view?h=3J5Eu6dcT3STeidqe3Y1zdGE)
+
+<iframe src="https://www.soundslice.com/slices/nrpYc/embed-channelpost/?layout=5" width="100%" height="320" frameBorder="0"></iframe>
+
+#### Imagen solo
+
+![../Assets/Pasted image 20240415102602.png](/img/user/Assets/Pasted%20image%2020240415102602.png)
+
+### [Someone like you - Adele](https://tabs.ultimate-guitar.com/tab/adele/someone-like-you-chords-1006751)
+
+### [Karma - Jojo Siwa](https://tabs.ultimate-guitar.com/tab/jojo-siwa/karma-chords-5214630)
