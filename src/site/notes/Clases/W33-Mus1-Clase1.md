@@ -189,7 +189,23 @@ $<div class="markdown-embed-title">
 </div>
 <div class="slide">
 
-## Repertorio concierto
+# Repertorio concierto
+
+## No dudaría
+
+## Samba le le
+
+## Cavatina - Stanley Myers
+
+## Ani kuni
+
+## Someone like you - Adele
+
+## Chipi - chipi
+
+## Catina band
+
+## Hijo de la luna - Mecano
 
 </div>
 <div class="slide">
