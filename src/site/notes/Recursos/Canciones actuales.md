@@ -52,6 +52,8 @@ $<div class="markdown-embed-title">
 </div></div>
 
 
+https://es.wikipedia.org/wiki/Samba_lel%C3%A9 
+
 ## Cavatina - Stanley Myers
 
 ![[../Assets/Cavatina - Stanley Myers.pdf]]
@@ -75,9 +77,15 @@ $<div class="markdown-embed-title">
 </div></div>
 
 
+https://es.wikipedia.org/wiki/Ani_Kuni
+
 ## Someone like you - Adele ( [hooktheory](https://www.hooktheory.com/hookpad/view/dPoDYGLZmnM) - [tabs](https://tabs.ultimate-guitar.com/tab/adele/someone-like-you-chords-1006751) )
 
+https://es.wikipedia.org/wiki/Someone_Like_You_(canci%C3%B3n_de_Adele)
+
 ## Chipi - chipi ([solo](https://clases-de-musica-ies.vercel.app/img/optimized/k5fFbtCMgj-700.webp) - [tab](https://tabs.ultimate-guitar.com/user/tab/view?h=3J5Eu6dcT3STeidqe3Y1zdGE))
+
+https://es.wikipedia.org/wiki/Dubidubidu
 
 ## Catina band
 
@@ -85,5 +93,8 @@ $<div class="markdown-embed-title">
 
 ## [Hijo de la luna - Mecano](https://tabs.ultimate-guitar.com/tab/mecano/hijo-de-la-luna-chords-459303)
 
+https://es.wikipedia.org/wiki/Hijo_de_la_luna
+
 ## [Viva la vida - Cold Play](https://tabs.ultimate-guitar.com/tab/coldplay/viva-la-vida-chords-675427)
 
+https://es.wikipedia.org/wiki/Viva_la_Vida_or_Death_and_All_His_Friends
