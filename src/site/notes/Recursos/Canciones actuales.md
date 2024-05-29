@@ -27,91 +27,63 @@
 
 [Karaoke](https://www.youtube.com/watch?v=sC_kOGn58ZQ)
 
-### No dudaría - Antonio Flores
+
+# Repertorio concierto
+
+## [No dudaría](https://tabs.ultimate-guitar.com/tab/antonio-flores/no-dudaria-chords-1428829)
+
+## Samba lele
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+$<div class="markdown-embed-title">
+
+# Samba lele
+
+</div>
 
 
 
-### Patrones de acompañamiento
 
-![../Assets/Pasted image 20240226211255.png](/img/user/Assets/Pasted%20image%2020240226211255.png)
+![../Assets/Pasted image 20240228141336.png](/img/user/Assets/Pasted%20image%2020240228141336.png)
 
----
-
-### PDF lead sheet
-
-![../Assets/Pasted image 20240318110330.png](/img/user/Assets/Pasted%20image%2020240318110330.png)
-
----
-
-### Editando
-
-```song
-**_Estrofa 1_**
-Si pu[C]diera olvidar todo aquello que fui,
-si pu[G]diera borrar todo lo que yo vi,
-no duda[F]ría, no duda[G]ría en volver a re[C]ír.
-
-
-**_Estrofa 2_**
-Si pu[C]diera explicar las vidas que quité,
-si pu[G]diera quemar las almas que usé,
-no duda[F]ría, no duda[G]ría en volver a re[C]ír.
-
-
-**_Estribillo_** x2
-Prometo [F]ver la ale[G]gría,
-escarmen[C]tar de la expe[Am]riencia,
-pero [F]nunca, nunca [G]más usar la viol[C]encia.
-```
-
-
- 
-C            F         G               C
-Parachururu churu Parachururu chururu chu
-C            F         G               C
-Parachururu churu Parachururu chururu chu
- 
-       C
-Si pudiera sembrar los campos que arrasé
-       G
-si pudiera devolver la paz que quité
-        F           G                C
-no dudaría, no dudaría en volver a reír.
- 
-       C
-Si pudiera olvidar aquel llanto que oí
-       G
-si pudiera lograr apartarlo de mí
-        F           G                C
-no dudaría, no dudaría en volver a reír.
- 
-        F           G
-Prometo ver la alegría,
-        C               Am
-escarmentar de la experiencia
-       Dm           G             C
-pero nunca, nunca más usar la violencia.
- 
-        F           G
-Prometo ver la alegría,
-        C               Am
-escarmentar de la experiencia
-       Dm           G             C
-pero nunca, nunca más usar la violencia.
- 
-C            F         G               C
-Parachururu churu Parachururu chururu chu
-C            F         G               C
-Parachururu churu Parachururu chururu chu
-C            F         G               C
-Parachururu churu Parachururu chururu chu
-C            F         G               C
-Parachururu churu Parachururu chururu chu
 
 </div></div>
 
+
+## Cavatina - Stanley Myers
+
+![[../Assets/Cavatina - Stanley Myers.pdf]]
+
+## Ani kuni
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# Ani kuni
+
+</div>
+
+
+
+
+![../Assets/Pasted image 20240429095010.png](/img/user/Assets/Pasted%20image%2020240429095010.png)
+
+</div></div>
+
+
+## Someone like you - Adele ( [hooktheory](https://www.hooktheory.com/hookpad/view/dPoDYGLZmnM) - [tabs](https://tabs.ultimate-guitar.com/tab/adele/someone-like-you-chords-1006751) )
+
+## Chipi - chipi ([solo](https://clases-de-musica-ies.vercel.app/img/optimized/k5fFbtCMgj-700.webp) - [tab](https://tabs.ultimate-guitar.com/user/tab/view?h=3J5Eu6dcT3STeidqe3Y1zdGE))
+
+## Catina band
+
+![[../Assets/cantina_band.pdf]]
+
+## [Hijo de la luna - Mecano](https://tabs.ultimate-guitar.com/tab/mecano/hijo-de-la-luna-chords-459303)
+
+## [Viva la vida - Cold Play](https://tabs.ultimate-guitar.com/tab/coldplay/viva-la-vida-chords-675427)
 
