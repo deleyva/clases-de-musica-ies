@@ -5,19 +5,19 @@
 
 <div class="slide">
 
-![../Assets/Pasted image 20240915124904.png](/img/user/Assets/Pasted%20image%2020240915124904.png)
+![../Assets/Pasted image 20240915132348.png](/img/user/Assets/Pasted%20image%2020240915132348.png)
 
 </div>
 <div class="slide">
 
-![../Assets/Pasted image 20240915124954.png](/img/user/Assets/Pasted%20image%2020240915124954.png)
+![../Assets/Pasted image 20240915132402.png](/img/user/Assets/Pasted%20image%2020240915132402.png)
 
 </div>
 <div class="slide">
 
 [libro](https://aulamhe.com/mod/scorm/player.php?a=4729&currentorg=3ipunt&scoid=37806)
 
-![../Assets/Pasted image 20240915125010.png](/img/user/Assets/Pasted%20image%2020240915125010.png)
+![../Assets/Pasted image 20240915132428.png](/img/user/Assets/Pasted%20image%2020240915132428.png)
 
 </div>
 <div class="slide">
@@ -188,6 +188,16 @@ Correct answer: False
 </div>
 <div class="slide">
 
+![../Assets/Pasted image 20240915132752.png](/img/user/Assets/Pasted%20image%2020240915132752.png)
 
+</div>
+<div class="slide">
+
+## Test audiométrico
+
+[audio](https://drive.google.com/file/d/15lJ0Z6P09c4PpAg6_FamqUnzCNrpInbP/view)
+
+> [!TIP]- Solución
+>  1: ↑    2: ↓    3: ↑    4: ↓    5: ↓    6: ↑    7: ↓    8: ↑    9: ↓    10: ↓  
 
 </div>
