@@ -183,12 +183,50 @@ Correct answer: False
 </div>
 <div class="slide">
 
+## Rhythm
+
+![../Assets/Pasted image 20240915135000.png](/img/user/Assets/Pasted%20image%2020240915135000.png)
+
+</div>
+<div class="slide">
+
+## Melody
+
 ![../Assets/Pasted image 20240915131857.png](/img/user/Assets/Pasted%20image%2020240915131857.png)
 
 </div>
 <div class="slide">
 
 ![../Assets/Pasted image 20240915132752.png](/img/user/Assets/Pasted%20image%2020240915132752.png)
+
+</div>
+
+
+<div class="slide">
+
+## 2ª Mayor / 2ª menor
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/recursos/canciones-didacticas/#una-ola" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Canciones didácticas
+
+</div>
+
+
+### Una ola
+
+Una ola con su cola viene conmigo a bailar,
+Ya se aleja, ya se acerca, a la costa va a llegar.
+
+>[!EXAMPLE]- Más
+>![../Assets/Pasted image 20231028074410.png](/img/user/Assets/Pasted%20image%2020231028074410.png)
+
+
+</div></div>
+
 
 </div>
 <div class="slide">
@@ -199,5 +237,36 @@ Correct answer: False
 
 > [!TIP]- Solución
 >  1: ↑    2: ↓    3: ↑    4: ↓    5: ↓    6: ↑    7: ↓    8: ↑    9: ↓    10: ↓  
+
+</div>
+<div class="slide">
+
+I used to rule the world  
+Seas would rise when I gave the word  
+Now in the morning, I sleep alone  
+Sweep the streets I used to own
+
+</div>
+<div class="slide">
+
+I used to roll the dice  
+Feel the fear in my enemy's eyes  
+Listen as the crowd would sing  
+Now the old king is dead, long live the king  
+One minute, I held the key  
+Next the walls were closed on me  
+And I discovered that my castles stand  
+Upon pillars of salt and pillars of sand
+
+</div>
+<div class="slide">
+
+I hear Jerusalem bells a-ringin'  
+Roman Cavalry choirs are singin'  
+Be my mirror, my sword and shield  
+My missionaries in a foreign field  
+For some reason, I can't explain  
+Once you'd gone, there was never, never an honest word  
+And that was when I ruled the world
 
 </div>
