@@ -7,7 +7,7 @@
 
 ## Repaso prueba inicial
 
-![[../Assets/2024_09_11 11_33 Office Lens.pdf]]
+![../Assets/Pasted image 20240915180703.png](/img/user/Assets/Pasted%20image%2020240915180703.png)
 
 </div>
 <div class="slide">
