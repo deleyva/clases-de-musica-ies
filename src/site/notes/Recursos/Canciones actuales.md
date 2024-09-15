@@ -37,7 +37,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-$<div class="markdown-embed-title">
+<div class="markdown-embed-title">
 
 # Samba lele
 
@@ -63,7 +63,7 @@ https://es.wikipedia.org/wiki/Samba_lel%C3%A9
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-$<div class="markdown-embed-title">
+<div class="markdown-embed-title">
 
 # Ani kuni
 
