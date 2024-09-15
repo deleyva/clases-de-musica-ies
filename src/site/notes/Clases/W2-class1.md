@@ -5,6 +5,13 @@
 
 <div class="slide">
 
+## Repaso prueba inicial
+
+![[../Assets/2024_09_11 11_33 Office Lens.pdf]]
+
+</div>
+<div class="slide">
+
 ![../Assets/Pasted image 20240915132348.png](/img/user/Assets/Pasted%20image%2020240915132348.png)
 
 </div>
