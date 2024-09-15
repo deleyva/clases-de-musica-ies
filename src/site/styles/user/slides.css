@@ -52,3 +52,8 @@ img {
 .show-element {
   display: block !important;
 }
+
+.slide p {
+  margin-left: 20px; /* Ajusta este valor según el margen que prefieras */
+  padding-left: 15px; /* Ajusta este valor según el padding que prefieras */
+}
