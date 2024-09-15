@@ -95,58 +95,6 @@ Correct answer: c) Flowing rhythm without time signature
 </div>
 <div class="slide">
 
-What is the "Syllabic" style of Gregorian chant?
-a) One syllable corresponds to two or three notes
-b) Each syllable corresponds to only one note
-c) Each syllable corresponds to more than 50 notes
-d) One note corresponds to two or three syllables
-
-</div>
-<div class="slide">
-Correct answer: b) Each syllable corresponds to only one note
-</div>
-
-<div class="slide">
-
-What is the "Neumatic" style of Gregorian chant?
-a) A syllable corresponds to 2 or 3 notes
-b) A syllable corresponds to only 1 note
-c) A syllable corresponds to 4 notes or more
-d) Each word is sung with a single note
-
-</div>
-<div class="slide">
-Correct answer: a) A syllable corresponds to 2 or 3 notes
-</div>
-
-<div class="slide">
-
-What is the "Melismatic" style of Gregorian chant?
-a) Each syllable corresponds to only one note
-b) Each syllable corresponds to more than 3 notes
-c) The chant is written in Greek
-d) A syllable corresponds to 2 notes
-
-</div>
-<div class="slide">
-Correct answer: b) Each syllable corresponds to more than 3 notes
-</div>
-
-<div class="slide">
-
-Which chant is an example of one of the few songs written in Greek?
-a) Gloria
-b) Agnus Dei
-c) Kyrie Eleison
-d) Sanctus
-
-</div>
-<div class="slide">
-Correct answer: c) Kyrie Eleison
-</div>
-
-<div class="slide">
-
 Gregorian chants are typically accompanied by musical instruments.
 a) True
 b) False
