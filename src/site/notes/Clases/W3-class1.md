@@ -127,6 +127,16 @@ Negras, corcheas, blancas y sus silencios
 </div>
 <div class="slide">
 
+### 01-4
+
+[audio](https://drive.google.com/file/d/1vLpU3DkD4aC0Ot4Akwim1S7-fihd3ZvT/view)
+
+> [!TIP]- Solución
+>Test 01: 1: ↓   2: ↑    3: ↑    4: ↑    5: ↓    6: ↓    7: ↓    8: ↑    9: ↑    10: ↓
+
+</div>
+<div class="slide">
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
