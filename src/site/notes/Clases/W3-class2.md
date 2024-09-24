@@ -161,6 +161,20 @@ Correct answer: True
 </div>
 <div class="slide">
 
+## Escala mayor - tonos y semitonos
+
+![../Assets/Pasted image 20240924201226.png](/img/user/Assets/Pasted%20image%2020240924201226.png)
+
+</div>
+<div class="slide">
+
+### Intervalos de la escala mayor
+
+![../Assets/Pasted image 20240924201305.png](/img/user/Assets/Pasted%20image%2020240924201305.png)
+
+</div>
+<div class="slide">
+
 ## Rhythm
 
 ![../Assets/Pasted image 20240920125642.png](/img/user/Assets/Pasted%20image%2020240920125642.png)
