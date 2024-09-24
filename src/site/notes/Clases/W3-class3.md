@@ -154,6 +154,25 @@ Correct answer: True
 </div>
 <div class="slide">
 
+## Intervalos aumentados, menores y disminuídos
+
+![../Assets/Pasted image 20240924201510.png](/img/user/Assets/Pasted%20image%2020240924201510.png)
+
+</div>
+<div class="slide">
+
+![../Assets/Pasted image 20240924201554.png](/img/user/Assets/Pasted%20image%2020240924201554.png)
+
+
+</div>
+<div class="slide">
+
+![../Assets/Pasted image 20240924201617.png](/img/user/Assets/Pasted%20image%2020240924201617.png)
+
+
+</div>
+<div class="slide">
+
 ## Rhythm
 
 ![../Assets/Pasted image 20240920125642.png](/img/user/Assets/Pasted%20image%2020240920125642.png)
