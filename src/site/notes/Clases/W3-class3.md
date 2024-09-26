@@ -5,6 +5,13 @@
 
 <div class="slide">
 
+## Finally... google classroom
+
+
+
+</div>
+<div class="slide">
+
 ![../Assets/Pasted image 20240917132103.png](/img/user/Assets/Pasted%20image%2020240917132103.png)
 
 </div>
