@@ -37,6 +37,21 @@
 </div>
 <div class="slide">
 
+<iframe width="560" height="315" src="https://invidious.privacyredirect.com/embed/-T2MIGuA8p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+<div class="slide">
+
+<iframe width="560" height="315" src="https://invidious.privacyredirect.com/embed/-40h9b8SWw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+<div class="slide">
+
+<iframe width="560" height="315" src="https://invidious.privacyredirect.com/embed/xlCmQcRPtRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+<div class="slide">
+
 Where did reggae music originate?
 a) Cuba
 b) Jamaica
