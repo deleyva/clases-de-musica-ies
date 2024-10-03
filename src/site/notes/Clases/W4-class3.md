@@ -20,7 +20,7 @@
 </div>
 <div class="slide">
 
- <video src=https://invidious.privacyredirect.com/embed/69RdQFDuYPI" controls style="max-height: 200px;"></video>" controls style="max-height: 200px;"></video>
+ <video src="https://invidious.privacyredirect.com/embed/69RdQFDuYPI" controls style="max-height: 200px;"></video>
 
 </div>
 <div class="slide">
