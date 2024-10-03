@@ -20,7 +20,15 @@
 </div>
 <div class="slide">
 
- <video src="https://invidious.privacyredirect.com/embed/69RdQFDuYPI" controls style="max-height: 200px;"></video>
+<iframe
+    width="560"
+    height="315"
+    src="https://invidious.privacyredirect.com/embed/69RdQFDuYPI"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
+
 
 </div>
 <div class="slide">
