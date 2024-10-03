@@ -25,10 +25,14 @@
     height="315"
     src="https://invidious.privacyredirect.com/embed/69RdQFDuYPI"
     frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
 </iframe>
 
+</div>
+<div class="slide">
+
+<iframe width="560" height="315" src="https://invidious.privacyredirect.com/embed/oDVFE_IuVos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <div class="slide">
