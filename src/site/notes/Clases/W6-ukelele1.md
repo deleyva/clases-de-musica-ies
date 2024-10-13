@@ -34,6 +34,6 @@
 
 ## [Perfect - Ed Sheeran](https://tabs.ultimate-guitar.com/user/tab/view?h=wR2AffbQ5sr8ur9kchIvABIm)
 
-## [Zombie - The cranberries](https://tabs.ultimate-guitar.com/tab/the-cranberries/zombie-official-1918857)
+## [Zombie - The cranberries](https://tabs.ultimate-guitar.com/tab/the-cranberries/zombie-official-1918857). [vídeo](https://invidious.jing.rocks/watch?v=6Ejga4kJUts)
 
 </div>
