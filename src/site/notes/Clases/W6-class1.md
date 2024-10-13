@@ -47,7 +47,7 @@
 
 [[Clases/W6-coro\|W6-coro]]
 
-[[W6-ukelele1\|W6-ukelele1]]
+[[Clases/W6-ukelele1\|W6-ukelele1]]
 
 [[W6-ukelele2\|W6-ukelele2]]
 
