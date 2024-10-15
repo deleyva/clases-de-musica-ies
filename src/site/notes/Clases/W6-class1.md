@@ -49,6 +49,6 @@
 
 [[Clases/W6-ukelele1\|W6-ukelele1]]
 
-[[W6-ukelele2\|W6-ukelele2]]
+[[Clases/W6-ukelele2\|W6-ukelele2]]
 
 </div>
