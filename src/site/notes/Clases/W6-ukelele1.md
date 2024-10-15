@@ -24,7 +24,7 @@
 
 
 - Dicordio
-- En el mar ¿Sabes tocarla? ¿Y la hola?
+- En el mar ¿Sabes tocarla?
 - Tocamos grados concretos
 
 </div>
