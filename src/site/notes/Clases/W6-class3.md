@@ -39,13 +39,7 @@
 <div class="slide">
   <h2>Pérotin - Viderunt Omnes</h2>
   <p>A famous work by Pérotin that showcases his ability to combine multiple voices.</p>
-  <p><a href="https://www.youtube.com/watch?v=9Jz2U8PVk6g">Pérotin: Viderunt Omnes</a></p>
-</div>
-
-<div class="slide">
-  <h2>Introduction to Ars Antiqua</h2>
-  <p>This video provides an overview of Ars Antiqua music from the 12th and 13th centuries.</p>
-  <p><a href="https://www.youtube.com/watch?v=JvhRJmn9yIs">Music of the Ars Antiqua (12th-13th centuries)</a></p>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/3oaRM1uDsw8?si=qL5dLiReoWg_usS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="slide">
@@ -71,19 +65,7 @@
 <div class="slide">
   <h2>Guillaume de Machaut - Messe de Nostre Dame</h2>
   <p>A key work of Ars Nova that shows the richness and complexity of the polyphony of this period.</p>
-  <p><a href="https://www.youtube.com/watch?v=bzbVWXvD6J0">Guillaume de Machaut - Messe de Nostre Dame</a></p>
-</div>
-
-<div class="slide">
-  <h2>Introduction to Ars Nova</h2>
-  <p>This video explains the main characteristics of Ars Nova music from the 14th century.</p>
-  <p><a href="https://www.youtube.com/watch?v=oJSvPvohJ5E">Ars Nova Music of the 14th Century</a></p>
-</div>
-
-<div class="slide">
-  <h2>Documentary on Ars Nova</h2>
-  <p>This documentary explains the birth of polyphony during the Ars Nova period and the innovations it brought to music.</p>
-  <p><a href="https://www.youtube.com/watch?v=Eh8Jl9DWYvQ">The Birth of Polyphony: Ars Nova</a></p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Y47JdUI_PhE?si=0IWQJgpBiiwQYMIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="slide">
