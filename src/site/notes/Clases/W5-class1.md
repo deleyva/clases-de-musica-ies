@@ -104,11 +104,6 @@ Correct answer: b) Part A
 </div>
 <div class="slide">
 
-![../Assets/Pasted image 20241004130543.png](/img/user/Assets/Pasted%20image%2020241004130543.png)
-
-</div>
-<div class="slide">
-
 ### Dictado rítmico
 
 3/4 - corcheas, negras, blancas y sus silencios. También puntillo.
@@ -116,7 +111,7 @@ Correct answer: b) Part A
 </div>
 <div class="slide">
 
-[[W5-coro\|W5-coro]]
+[[Clases/W5-coro\|W5-coro]]
 
 [[Clases/W5-ukelele1\|W5-ukelele1]]
 

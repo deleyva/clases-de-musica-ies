@@ -48,7 +48,7 @@
 </div>
 <div class="slide">
 
-[[Clases/W4-coro\|W4-coro]] 
+[[Clases/W4-coro\|W4-coro]]
 
 [[Clases/W4-ukelele1\|W4-ukelele1]]
 

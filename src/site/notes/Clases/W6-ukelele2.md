@@ -29,7 +29,6 @@
 </div>
 <div class="slide">
 
-## [Viva la vida - Cold Play](https://tabs.ultimate-guitar.com/tab/coldplay/viva-la-vida-chords-675427)
 
 ## [Perfect - Ed Sheeran](https://tabs.ultimate-guitar.com/user/tab/view?h=wR2AffbQ5sr8ur9kchIvABIm)
 

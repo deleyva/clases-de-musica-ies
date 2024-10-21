@@ -22,6 +22,11 @@
 </div>
 <div class="slide">
 
+![../Assets/Pasted image 20240926115537.png](/img/user/Assets/Pasted%20image%2020240926115537.png)
+
+</div>
+<div class="slide">
+
 From which ancient civilizations did many of the musical instruments used in the Middle Ages originate?
 a) Egypt and Mesopotamia
 b) Greece and Rome
@@ -209,6 +214,7 @@ Correct answer: True
 # El gigante
 
 </div>
+
 
 
 

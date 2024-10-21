@@ -25,8 +25,8 @@
 </div>
 <div class="slide">
 
-## [Viva la vida - Cold Play](https://tabs.ultimate-guitar.com/tab/coldplay/viva-la-vida-chords-675427)
+## [Viva la vida - Cold Play](https://tabs.ultimate-guitar.com/tab/coldplay/viva-la-vida-chords-675427) - Quien lo tenga ya, que toque los bajos
 
-## [Perfect - Ed Sheeran](https://tabs.ultimate-guitar.com/user/tab/view?h=wR2AffbQ5sr8ur9kchIvABIm)
+## [Perfect - Ed Sheeran](https://tabs.ultimate-guitar.com/user/tab/view?h=wR2AffbQ5sr8ur9kchIvABIm) - Quien lo tenga ya, que toque los bajos
 
 </div>
